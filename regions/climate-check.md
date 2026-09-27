@@ -9,6 +9,7 @@
 | [Órgiva](../places/es-orgiva-alpujarra.md) | May–Oct | 1–5 days/month; 43, 21, 5, 12, 36, 58 mm | No | ✅ Pass | [w&c](https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,orgiva-andalucia-es,Spain), [Granada](https://en.wikipedia.org/wiki/Granada#Climate) |
 | [La Taha / Pitres](../places/es-la-taha-alpujarra.md) | May–Oct | ~1–5 days; 49, 25, 7, 16, 42, 60 mm | Dec–Mar some, none May–Oct | ✅ Pass | [w&c](https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,pitres-andalucia-es,Spain) |
 | [Serra de Monchique](../places/pt-monchique.md) | May–Sep (+Apr/Oct wet) | 62, 18, 3, 7, 40 mm | No | ✅ Pass (weak) | [IPMA](https://en.wikipedia.org/wiki/Monchique#Climate) |
+| [Aljezur](../places/pt-aljezur-costa-vicentina.md) | Apr–Sep | Sagres station, dry summer; winter lows 8–9 °C | No | ✅ Pass (windy, summer morning fog) | see place file |
 | [Sierra de Aracena](../places/es-aracena-alajar.md) | May–Oct | ~9, 6, 3, 3, 5, 10 days; 50, 15, 3, 7, 34, 82 mm | Very rare | ✅ Pass | [w&c](https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,alajar-andalucia-es,Spain) |
 | [Tenerife north](../places/ic-tenerife-north-tegueste.md) | Apr–Sep | 6, 4, 3, 2, 1, 3 days; 38–7 mm | No | ✅ Pass | [La Laguna](https://en.wikipedia.org/wiki/San_Cristóbal_de_La_Laguna#Climate) |
 | [La Palma NW](../places/ic-lapalma-northwest.md) | Apr–Sep | ~1–6 days; 4–16 mm | No | ✅ Pass | [w&c](https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,puntagorda-es,Spain) |

@@ -62,7 +62,7 @@
 
 See [`regions/climate-check.md`](regions/climate-check.md).
 
-- ✅ **Pass:** Órgiva, La Taha, Monchique (weak), Aracena, Tenerife north, La Palma NW, Kaz Dağları, Datça, Bayramiç
+- ✅ **Pass:** Órgiva, La Taha, Aljezur, Monchique (weak), Aracena, Tenerife north, La Palma NW, Kaz Dağları, Datça, Bayramiç
 - 🟡 **Borderline:** Benfeita, Penela/Lousã, Sintra, Friol, La Vera, Die, Cévennes
 - ❌ **Fail:** Alto Minho, East Asturias, Valles Pasiegos, Couserans, West Cork, East Clare
 

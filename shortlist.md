@@ -52,7 +52,9 @@
 
 **Weaker (below 6/8), for reference:** [Monte Amiata](places/it-amiata-arcidosso.md) (IT, 4/8, 82) · [Vipava](places/si-vipava-valley.md) (SI, 4/8, 82) · [Pelion](places/gr-pelion.md) (GR, 4/8, 80) · [Istria](places/hr-istria-interior.md) (HR, 4/8, 77) · [Lunigiana](places/it-lunigiana.md) (IT, 3/8, 76) · [Etna north](places/it-etna-north.md) (IT, 2/8, 75) · [Idanha-a-Nova](places/pt-idanha-a-nova.md) (PT, 5/8, 74) · [Castelo de Vide](places/pt-castelo-de-vide-marvao.md) (PT, 4/8, 66)
 
-**Dropped for water:** [Crete Apokoronas](places/gr-crete-apokoronas.md) · [Conflent / Prades](places/fr-conflent-prades.md) · [West Liguria](places/it-ponente-ligure-val-nervia.md) · [Datça](places/tr-datca.md) · [Seferihisar / Urla](places/tr-seferihisar-urla.md)
+**Back on the list, 💧 flagged:** [Datça](places/tr-datca.md) (TR, 6/8, 69) — we are there now; best villages Hızırşah, Kızlan; idea: winter home (Oct–Apr), travel in summer.
+
+**Dropped for water:** [Crete Apokoronas](places/gr-crete-apokoronas.md) · [Conflent / Prades](places/fr-conflent-prades.md) · [West Liguria](places/it-ponente-ligure-val-nervia.md) · [Seferihisar / Urla](places/tr-seferihisar-urla.md)
 
 **Country view:** Spain/Portugal stay first. **Ireland** is the real new option (EU, legal home schooling, lots of water, English) — if Nesli accepts mild but wet winters. **France** is strong but has a hard trade-off (wet = cold and far from sea; near sea = dry). Italy, Greece, Balkans, Turkey = second choice (water, schooling or van rules). UK = blocked by visas.
 

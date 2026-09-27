@@ -4,6 +4,15 @@ Newest on top. One entry per decision.
 
 ---
 
+## 2026-09-27 — First frame (grilling round 1)
+- **Decision:** Focus on Spain, Portugal, Canary Islands first. Keep Turkey (Bayramiç) as the benchmark. Other countries later.
+- **Decision:** Water and mountains are hard criteria.
+- **Decision:** Scout this autumn, choose a place within one year.
+- **Why:** Bayramiç showed what we like (project-building newcomers, kind locals) and what we miss (mountains, lower land prices).
+- **Who:** Ondrej (wife to confirm).
+
+---
+
 ## 2026-09-27 — Start the project
 - **Decision:** Build a shared research notebook in this repo.
 - **Why:** To build a common understanding between us, then research places in Europe.

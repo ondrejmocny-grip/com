@@ -23,6 +23,10 @@
 - Buy / rent / lease / share land?
 - What could we contribute?
 
+## Legal flags
+- Home schooling: ✅ / ⚠️ / ❌
+- Van / yurt on land: 
+
 ## Costs
 - Land prices, rent, fees.
 

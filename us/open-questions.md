@@ -11,8 +11,8 @@ Things we still need to decide together. When decided, move the answer to `profi
 - [x] How deep a connection with locals do we want?
 - [x] What we bring to a community (skills, project ideas).
 - [x] Max travel time for parents (from Czechia and Turkey).
-- [ ] Is legal home schooling a must? (Spain = grey zone, Greece/Turkey = illegal, see [legal overview](../regions/legal-overview.md))
-- [ ] Wife: still apply for the Czech permit, or go directly with the EU family route?
+- [x] Is legal home schooling a must? → No, but flag it. (Spain = grey zone, Greece/Turkey = illegal, see [legal overview](../regions/legal-overview.md))
+- [x] Wife: Czech permit? → Not needed. Use the EU family route.
 
 ## Facts to research (Claude)
 - [x] Wife's residency → done, see [legal overview](../regions/legal-overview.md) §1.

@@ -4,6 +4,13 @@ Newest on top. One entry per decision.
 
 ---
 
+## 2026-09-27 — Schooling and residency (grilling round 3)
+- **Decision:** Legal home schooling is not a must, but always flag it.
+- **Decision:** Czech permit for wife is not needed; use the EU family route.
+- **Who:** Ondrej and wife.
+
+---
+
 ## 2026-09-27 — Land and family (grilling round 2)
 - **Decision:** Lease or join a project first; maybe buy later. Loan max €1,000/month.
 - **Decision:** Other young families nearby = must-have. Sea + mountains both nearby. Mild climate.

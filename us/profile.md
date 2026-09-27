@@ -11,7 +11,7 @@
 | People | Ondrej and his wife |
 | Kids | Planned |
 | Citizenship | Ondrej: Czech (EU). Wife: Turkish |
-| Residency plan | Wife applies for Czech residence permit first. Open to move and apply for residency in another country |
+| Residency plan | Czech permit for wife is **not required**. Main path: EU family route directly in the new country (see [legal overview](../regions/legal-overview.md)) |
 | Languages – Ondrej | Czech, English, Turkish, some Russian and German, a little Spanish |
 | Languages – wife | Turkish, English |
 | Learning languages | Both willing to learn the local language |
@@ -47,6 +47,7 @@
 ### Family
 - Kids planned → **other young families with kids nearby is a must-have.**
 - Schooling: **home schooling, world schooling or alternative school**.
+- Legal home schooling is **not a must** (we can find ways around it), but **flag the legal status** for every country and place.
 - Parents must be able to visit. Travel time is **not critical**.
 
 ### What we bring

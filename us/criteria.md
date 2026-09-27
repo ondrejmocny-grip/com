@@ -9,7 +9,10 @@
 - No real contact with local people.
 - Drought, dryness or water shortage.
 - No mountains in view or close by.
-- `?` Home schooling not possible in practice.
+
+## Flags (not deal-breakers, always note them)
+
+- ⚠️ Home schooling legal status (Spain/Canaries = grey zone, Greece/Turkey = illegal). See [legal overview](../regions/legal-overview.md).
 
 ## Must-haves
 

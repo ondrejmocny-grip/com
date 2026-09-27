@@ -1,6 +1,6 @@
 # How We Score a Place
 
-> Status: **draft v2** (2026-09-27). Weights are a first guess by Claude. Change them together.
+> Status: **draft v3** (2026-09-27). Weights are a first guess by Claude. Change them together.
 
 ## Deal-breakers (any one = drop)
 
@@ -18,7 +18,9 @@
 - Kind, authentic locals.
 - Reliable water.
 - Legal way to stay with a van at the start.
-- Parents can visit easily.
+- Other young families with kids nearby.
+- Like-minded neighbors nearby.
+- Sea and mountains both within reach.
 
 ## Scoring (1–5 each)
 
@@ -28,13 +30,13 @@
 | 2 | Active projects (retreats, eco farms…) we can join | 3 | Bayramiç = good example |
 | 3 | Openness / integration with village and locals | 2 | |
 | 4 | Water security | 3 | Deal-breaker if bad |
-| 5 | Mountains in view / close | 2 | Bayramiç = not enough |
-| 6 | Families with kids, schooling options | 2 | Home / alternative schooling |
-| 7 | Van → yurt → house path is legal and possible | 2 | |
-| 8 | Land prices | 2 | Bayramiç = too high |
-| 9 | Access (airport, parents' visits, health care) | 1 | |
+| 5 | Mountains in view + sea nearby | 2 | Bayramiç = not enough mountains |
+| 6 | Families with kids, schooling options | 3 | Must-have. Home / alternative schooling |
+| 7 | Lease / join options; van → yurt → house legal | 2 | Existing licensed projects help |
+| 8 | Land / lease prices | 2 | Loan max €1,000/month |
+| 9 | Access (airport, health care) | 1 | Not critical |
 | 10 | Language & residency ease (for both of us) | 1 | |
 | 11 | Local traditions still alive | 1 | |
-| 12 | Climate (mild winter preferred) | 1 | Heat OK, cold worse |
+| 12 | Climate: mild, no strong cold or heat | 2 | Wife: neither cold nor very hot |
 
-**Total** = sum of (score × weight). Max = 115.
+**Total** = sum of (score × weight). Max = 125.

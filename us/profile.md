@@ -1,8 +1,8 @@
 # Our Profile
 
-> Status: **draft v2** (2026-09-27, after grilling round 1).
+> Status: **draft v3** (2026-09-27, after grilling rounds 1–2).
 > Items marked `?` are not decided yet (see [open-questions.md](open-questions.md)).
-> Note: round 1 answers came from Ondrej. Wife's own view still to add.
+> Wife mostly agrees with round 1 (confirmed via Ondrej). Her own wishes are marked **(wife)**.
 
 ## Who we are
 
@@ -15,7 +15,9 @@
 | Languages – Ondrej | Czech, English, Turkish, some Russian and German, a little Spanish |
 | Languages – wife | Turkish, English |
 | Learning languages | Both willing to learn the local language |
-| Work | Ondrej works remotely. Wife: `?` |
+| Work – Ondrej | Remote job |
+| Work – wife | Small, seasonal work only: farming, healing work, food |
+| Wife's experience | Chef, gardening, yoga & pilates, veterinary work |
 | Today we live in | `?` |
 
 ## What we are looking for
@@ -35,7 +37,7 @@
 - **Authentic, kind locals** who help.
 - Connect with the **land** (gardening, farming, nature).
 - Respect and take part in **local traditions**.
-- `?` How deep a connection with locals do we want (Bayramiç: kind, but not deep)?
+- Depth with locals: kind relations (like Bayramiç) are **enough**, as long as there are **like-minded neighbors nearby**.
 
 ### Type of project
 - **Integrated** in a normal village or region.
@@ -43,22 +45,30 @@
 - We want to **take part** and maybe build our own project.
 
 ### Family
-- Kids planned → other families and kids nearby matter.
+- Kids planned → **other young families with kids nearby is a must-have.**
 - Schooling: **home schooling, world schooling or alternative school**.
-- Parents must be able to **visit** easily.
+- Parents must be able to visit. Travel time is **not critical**.
+
+### What we bring
+- Healing and emotional work
+- Community building
+- Technical projects
+- Education
+- (wife) Cooking, gardening, yoga & pilates, animal care
 
 ### Housing path
 1. Start: park our **van**.
 2. Later: **yurt**, **glamping**, or a **simple stone house**.
-3. `?` Buy land, rent, lease, or join someone's land?
+3. Land: **lease or join** someone's land/project first. Maybe **buy later** (after 1–2 years).
 
 ## Land and nature
 
 - **Water is key.** Enough water sources. No drought or dryness problems.
 - **Mountains:** we want mountains in view, or at least close by.
-- **Heat:** OK. **Cold:** worse.
+- **Sea and mountains both nearby** (wife prefers both).
+- **Climate:** mild. Ondrej: heat OK, cold worse. Wife: **no cold and no strong heat**.
 - Green or dry landscape: both possible (if water is OK).
-- Rhythm: we are OK to stay **6 months in one place and travel 6 months** each year.
+- Rhythm: **6 months in one place and 6 months travel** each year. Which season is home: no preference.
 
 ## Where
 
@@ -66,14 +76,16 @@
 - Focus now: **Spain, Portugal, Canary Islands**.
 - Also open: Italy, Greece, France, Balkans and others (later).
 - Turkey stays as the **benchmark**.
+- (wife) Curious about Europe, but **needs to see places in person** first.
 
 ## Practical frame
 
 | Topic | Our answer |
 |---|---|
 | Monthly living budget | Up to €3,000. May be lower if we take a big loan |
-| Budget for land / house | Open `?` |
+| Loan limit | Max **€1,000 / month** → leaves ~€2,000 to live on |
+| Budget for land / house | Rough max loan ~€180–190k (guess: 25 years at ~4%). Plus own savings `?` |
 | Timeline | Scouting in autumn. Decide on a place **within one year** |
 | Full year or part of the year | ~6 months home, ~6 months travel |
-| Distance to airport / city | `?` |
+| Distance to airport / city | Not critical |
 | Health care needs | `?` (important with kids planned) |

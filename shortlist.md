@@ -19,7 +19,7 @@
 | 9 | [Valles Pasiegos](places/es-valles-pasiegos-cantabria.md) | ES north | 88 | State-recognised Waldorf school, very green | Almost no spiritual scene · 🏫 |
 | 10 | [Tenerife north (Tegueste)](places/ic-tenerife-north-tegueste.md) | Canaries | 88 | Most alternative schools on the islands, perfect climate | 💧 Island water emergency 2024–26 · 💶 · 🔥 2023 |
 | 11 | [Friol / Lugo](places/es-friol-lugo.md) | ES north | 87 | Big Waldorf school (1/3 international), cheap land | Mountains/sea ~1 h · 🔥 2025 · 🏫 |
-| 12 | [Aljezur](places/pt-aljezur-costa-vicentina.md) | PT south | 86 | Hub for Monchique | Expat & surf bubble |
+| 12 | [Aljezur](places/pt-aljezur-costa-vicentina.md) | PT south | 86 | Hub for Monchique · ❤️ Ondrej liked first look | Expat & surf bubble |
 | 13 | [São Luís / Odemira](places/pt-sao-luis-odemira.md) | PT south | 85 | Most projects in PT | 💧💧 Weakest water |
 | 14 | [Alto Minho](places/pt-alto-minho.md) | PT north | 84 | Best water, traditions | Weak scene |
 | 15 | [La Palma northwest](places/ic-lapalma-northwest.md) | Canaries | 84 | Most natural water on islands, green, permaculture | 🔥 2023 · volcano · few schools |

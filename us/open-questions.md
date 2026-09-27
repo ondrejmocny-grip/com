@@ -27,6 +27,9 @@ Things we still need to decide together. When decided, move the answer to `profi
 - [ ] Portugal home schooling: is a bachelor's degree required for the parent? (conflicting sources)
 - [ ] DL 108/2026: rebuild ruins without a licence from 1 Oct 2026? Verify in Diário da República.
 - [ ] Check each shortlisted plot on the ICNF fire risk map.
-- [ ] Spain and Canary Islands research (in progress).
+- [x] Spain and Canary Islands research → done (2026-09-27).
+- [ ] Órgiva: which land has secure water rights (acequia / spring)?
+- [ ] El Calabacino (Aracena): legal status today?
+- [ ] Canaries: can a licensed rural tourism house still work under Ley 6/2025?
 - [ ] Czech-system schooling for Czech children abroad.
 - [ ] Alternative schools (Waldorf, free schools) in candidate regions of Spain.

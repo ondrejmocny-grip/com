@@ -64,7 +64,7 @@ Main doubts: **price**, weak grassroots scene, van illegal.
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://nekretnine-istra.hr/latest-news/real-estate-for-sale-istria

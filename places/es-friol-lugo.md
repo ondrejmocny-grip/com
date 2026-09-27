@@ -24,7 +24,7 @@ Green, wet, cheap rural Galicia near the city of Lugo. The first Waldorf school 
 - Start: rent a house in a village near Friol (cheap). Volunteer at the school (parent-run culture).
 - Repopulation: "Aldeas Vivas" project (14 mountain municipalities, ~22,000 people on 2,500 km²) listed houses, jobs and business offers, 2023–2024. *Check if still active.* [Galiciapress](https://www.galiciapress.es/articulo/movimientos/2026-08-23/5991096-fefugio-rural-gallego-llegada-nuevos-pobladores-huyen-ruido)
 - Xunta "aldeas modelo" program puts abandoned farm land back into use. [AGADER](https://agader.xunta.gal/es/recuperacion-de-tierras/aldeas-modelo)
-- Contribute: wife = animals, gardening, food; Ondrej = community, tech, education.
+- Contribute: Nesli = animals, gardening, food; Ondrej = community, tech, education.
 - Van: *common to park at a rented house or farm (guess).*
 
 ## Legal flags
@@ -59,7 +59,7 @@ Main doubt: **few like-minded project-makers** found so far; grey winters; fire 
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.waldorflugo.com/

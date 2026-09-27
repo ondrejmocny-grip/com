@@ -23,7 +23,7 @@ Portugal's highest mountains, with old traditional villages (shepherds, cheese).
 - Strong traditions: transhumance, Serra da Estrela cheese, wool. *(general knowledge)*
 
 ## How we could join
-- **Volunteer** at Casa de Santa Isabel (yearly international volunteers; wife's healing/animal skills and Ondrej's education could fit). [casasantaisabel.org/english](https://www.casasantaisabel.org/english)
+- **Volunteer** at Casa de Santa Isabel (yearly international volunteers; Nesli's healing/animal skills and Ondrej's education could fit). [casasantaisabel.org/english](https://www.casasantaisabel.org/english)
 - Quinta das Moitas: visitors / residents welcome (2020 listing). Earth Neighbours = maybe **buy or lease land next to them**. *(guess, ask)*
 - Workaway families as first contacts.
 - Van: *unknown.*
@@ -59,7 +59,7 @@ Note: Casa de Santa Isabel is a **therapeutic institution** (people with special
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.casasantaisabel.org/english

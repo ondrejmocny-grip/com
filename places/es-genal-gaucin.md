@@ -21,7 +21,7 @@ White villages on steep green slopes with chestnut and cork forests, **sea and M
 - ⚠️ British expat culture is strong in Gaucín (retirees, second homes). *May be less "project-making". Guess.*
 
 ## How we could join
-- Workaway: eco farm (~3 ha) near Gaucín with rescued animals (goats, sheep, donkeys, pigs), stone walls, restoration; gives independent accommodation + Spanish lessons, wants couples mid/long term. Good fit for the wife's animal skills. [Workaway](https://www.workaway.info/en/host/397799575179)
+- Workaway: eco farm (~3 ha) near Gaucín with rescued animals (goats, sheep, donkeys, pigs), stone walls, restoration; gives independent accommodation + Spanish lessons, wants couples mid/long term. Good fit for Nesli's animal skills. [Workaway](https://www.workaway.info/en/host/397799575179)
 - Rent a village house. *Rent likely higher because of Costa del Sol demand, guess.*
 - Buy: *land and houses are pricier than inland Andalusia (Costa del Sol effect), guess.*
 
@@ -62,7 +62,7 @@ Main doubts: **no clear project scene**, **fire (2021)**, **prices**.
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.gaucin.es/9724/poblacion

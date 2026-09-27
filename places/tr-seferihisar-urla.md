@@ -53,7 +53,7 @@ The İzmir coast is where many city people "go rural" without leaving the city f
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.sonmuhur.com/izmire-55-kilometre-uzaklikta-zeytini-tas-evleri-ve-doga-okulu-ile-farkli-bir-koy

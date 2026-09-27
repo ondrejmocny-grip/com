@@ -67,7 +67,7 @@ Big "but": fire. Not in the score. Would need cleared land, fire plan, stone hou
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://tocadocoelho.eu/our-philosophy/

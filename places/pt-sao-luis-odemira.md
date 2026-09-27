@@ -31,7 +31,7 @@ São Luís is probably the densest "regenerative" hub in southern Portugal. It i
 - **Volunteer first:** A Quinta da Lage, Azula, Permalab, Regenerar Odemira programme.
 - **Van:** A Quinta allows booked camper vans. On other private land: needs a council camping licence (see legal overview). The coast is Natural Park (Costa Vicentina / SW Alentejo) + Natura 2000: van parking outside official places is **forbidden** there (fine €60–300). Inland (São Luís hills) is outside the coastal park strip, so a 48 h rule applies on public ground. [Lei 66/2021](https://diariodarepublica.pt/dr/detalhe/lei/66-2021-170083315), [idealista news](https://www.idealista.pt/news/ferias/turismo/2021/08/26/48647-autocaravanas-com-nova-lei-em-vigor-o-que-muda)
 - **Lease / join:** many projects look for long-term people. Join Regenerativa as collaborator.
-- **Contribute:** wife's cooking fits the café / catering at Espaço Nativa; healing, yoga, education, community building.
+- **Contribute:** Nesli's cooking fits the café / catering at Espaço Nativa; healing, yoga, education, community building.
 
 ## Water (honest)
 - Main source for the coast and farms is the **Santa Clara dam** (Mira river). In 2023–24 it hit its **lowest level ever**; farm water was cut; protests in Odemira. [Portugal Resident](https://www.portugalresident.com/southwest-alentejo-groups-call-for-action-in-face-of-water-scarcity/), [Sul Informação 2023](https://www.sulinformacao.pt/en/2023/04/distribuicao-da-agua-da-barragem-de-santa-clara-deve-ser-justa-dizem-odemira-e-aljezur/)
@@ -72,7 +72,7 @@ Notes: mountains are only hills (Serra de Monchique ~40 min south, *guess*). Inl
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://rotavicentina.com/en/comercio/regenerativa-cooperativa-integral/

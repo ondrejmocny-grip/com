@@ -35,7 +35,7 @@ Not scored (dropped by deal-breaker: closed community / guru structure).
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.argayall.com/

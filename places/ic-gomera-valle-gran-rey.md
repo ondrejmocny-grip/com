@@ -56,7 +56,7 @@ Main doubt: **water + tourism**. Use as a meeting hub, live elsewhere.
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.irishexaminer.com/lifestyle/outdoors/damien-enright/where-hippie-ambience-and-vacationers-expectations-collide-467602.html

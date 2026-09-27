@@ -53,7 +53,7 @@ Use [`../us/criteria.md`](../us/criteria.md).
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - 

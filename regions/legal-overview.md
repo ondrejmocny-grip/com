@@ -2,7 +2,7 @@
 
 > Checked: 2026-09-27 by Claude (web research). Some official pages were down, so some facts come from secondary sources. *Italic* = uncertain or a guess. Verify before acting.
 
-## 1. Residency for the wife (Turkish citizen, spouse of an EU citizen)
+## 1. Residency for Nesli (Turkish citizen, spouse of an EU citizen)
 
 **Main point:** She does **not** need a Czech residence permit first. When Ondrej moves to Spain or Portugal, she can get residency there **directly** as the spouse of an EU citizen (Directive 2004/38/EC).
 

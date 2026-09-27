@@ -60,7 +60,7 @@ The classic "alternative town" of England. First Transition Town (2006). Steiner
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://en.wikipedia.org/wiki/Totnes

@@ -29,7 +29,7 @@ Not scored (dropped: deal-breaker "closed intentional community").
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.lakabe.org/

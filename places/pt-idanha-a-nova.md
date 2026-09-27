@@ -7,7 +7,7 @@
 - **Added:** 2026-09-27 by Claude (web research)
 
 ## In short
-Portugal's first "Bio-Region" (2018) and home of the Boom Festival. The council actively invites new families (free childcare, alternative school project). Real pull for eco and family people. **But:** hot summers (July highs ~34 °C), cold winter nights (~1.5 °C), and the sea is far. Fails our wife's climate wish and the "sea close" must-have.
+Portugal's first "Bio-Region" (2018) and home of the Boom Festival. The council actively invites new families (free childcare, alternative school project). Real pull for eco and family people. **But:** hot summers (July highs ~34 °C), cold winter nights (~1.5 °C), and the sea is far. Fails Nesli's climate wish and the "sea close" must-have.
 
 **Órgiva pattern:** 5/8 points — 1 town ✅ (small), 2 newcomers ✅ (migration positive since 2019), 3 spread out ✅, 4 projects ✅, 6 schools/families ✅. Missing: 5 weekly market ⚠️ *not found*, 7 sea ❌, 8 easy start ⚠️. **Below our 6/8 rule.**
 
@@ -62,7 +62,7 @@ Portugal's first "Bio-Region" (2018) and home of the Boom Festival. The council 
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://en.wikipedia.org/wiki/Idanha-a-Nova

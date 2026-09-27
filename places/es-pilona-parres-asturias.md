@@ -29,7 +29,7 @@ Green valleys of the river Piloña/Sella, 25 min from beaches and close to the P
 - Volunteer first at one of the hosts above (both hosts can host families).
 - "Volver al Pueblo" gives free help with housing, jobs, business ideas. Covers Cangas de Onís, Parres, Piloña (2/3 of the area's people); new settlers reported in April 2025. [COPE Ribadesella, 2025-04-09](https://coperibadesella.com/09/04/2025/el-oriente-de-asturias-sigue-recibiendo-nuevos-pobladores-gracias-al-programa-volver-al-pueblo/), [search summary](https://actualidad.asturias.es/-/el-proyecto-volver-al-pueblo-para-favorecer-la-fijaci%C3%B3n-de-poblaci%C3%B3n-en-el-medio-rural-se-extiende-al-suroccidente)
 - Rent a village house, lease meadow land from older farmers (*common, guess*).
-- Contribute: wife = yoga, cooking, animals (a lot of livestock here); Ondrej = community, tech, retreats.
+- Contribute: Nesli = yoga, cooking, animals (a lot of livestock here); Ondrej = community, tech, retreats.
 
 ## Legal flags
 - Home schooling: ⚠️ grey zone (Spain). Alternatives: Tribu Raigame (forest school, 3–12, max 12 kids, ~€200/month, *location in Asturias not stated*); Colegio Andolina (free school, Gijón, ~45 min); some project-based public schools. [Ludus Asturias](https://ludus.org.es/es/projects?province_id=12), [Tribu Raigame](https://ludus.org.es/es/tribu-raigame). One family "unschools" near the Picos (Workaway search result, 2026-09-27).
@@ -63,7 +63,7 @@ Main doubt: **scene may be too small / scattered**; rainy, grey winters.
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.workaway.info/en/host/265741612568

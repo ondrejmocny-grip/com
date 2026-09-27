@@ -50,7 +50,7 @@ The most popular expat area of Crete. Green (for Crete) hills between the White 
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.argophilia.com/news/drought-crete-2026/247766/

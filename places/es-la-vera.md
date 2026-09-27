@@ -10,7 +10,7 @@
 - **Added:** 2026-09-27 by Claude
 
 ## In short
-A long green valley under the Gredos peaks (2,000+ m), full of mountain streams (*gargantas*) and natural pools. Mild microclimate for inland Spain. Spanish neorrurales (many from Madrid) live here, with two alternative schools. **Best water of all Spanish candidates**, but the **sea is far** (fails the wife's "sea nearby" wish).
+A long green valley under the Gredos peaks (2,000+ m), full of mountain streams (*gargantas*) and natural pools. Mild microclimate for inland Spain. Spanish neorrurales (many from Madrid) live here, with two alternative schools. **Best water of all Spanish candidates**, but the **sea is far** (fails Nesli's "sea nearby" wish).
 
 ## People
 - Mostly Spanish newcomers (from Madrid, *guess*) + some foreigners. A family on Workaway in Villanueva de la Vera builds a home on 2.2 ha "in an area full of water with more than 30 rivers". [Workaway search, 2026-09-27](https://www.workaway.info/en/hostlist?country=ES&region=extremadura)
@@ -65,7 +65,7 @@ Main doubts: **sea is far**, **wildfire** (2023, 2025 next valley), **thin onlin
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://ludus.org.es/es/projects?province_id=36

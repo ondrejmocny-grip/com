@@ -28,10 +28,10 @@ The "sunny side" of Kaz Dağları. Villages like Adatepe and Yeşilyurt were alm
 
 ## How we could join
 - Volunteer: TaTuTa farms in Kaz Dağları give food + bed for work. [search summary](https://www.ekoharita.org/project/bayramic-yenikoy-kazdaglari-ekolojik-yasam-ve-tohum-dernegi/), [wwoof.tr](https://wwoof.tr/tr/). Workaway hosts (see above).
-- Wife: yoga, cooking, gardening → fits the many retreat camps (seasonal work).
+- Nesli: yoga, cooking, gardening → fits the many retreat camps (seasonal work).
 - Van: *parking on a friend's land or a camp is common and tolerated (guess).*
 - Yurt / tiny house on farmland: ❌ not legal as a home (see [Turkey note](../regions/turkey.md)). Legal routes: a licensed camp / eco-tourism site, or a *bağ evi* permit.
-- Land: buy **in the wife's name** (foreigners need an approved farm project within 2 years). [tarimhukuku.org](https://www.tarimhukuku.org/turkiyede-yabancilara-tarim-arazisi-satisi-mumkun-mu/)
+- Land: buy **in Nesli's name** (foreigners need an approved farm project within 2 years). [tarimhukuku.org](https://www.tarimhukuku.org/turkiyede-yabancilara-tarim-arazisi-satisi-mumkun-mu/)
 
 ## Water (honest)
 - Good side: Kaz Dağları is the water tower of the region. A spring-fed pipeline (Şarlak and Tilkeşdere springs) now brings drinking water to **14 Ayvacık villages**. [Çan'ın Sesi](https://www.caninsesi.com.tr/haber/28198616/kazdaglarinin-suyu-14-koyle-bulustu), [Çanakkale Bölge Haber](https://www.canakkalebolgehaber.com/kazdagilarindan-gelen-su-ayvacikin-14-koyune-hayat-verdi/13675)
@@ -71,7 +71,7 @@ The "sunny side" of Kaz Dağları. Villages like Adatepe and Yeşilyurt were alm
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://en.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkkuyu,_Ayvac%C4%B1k

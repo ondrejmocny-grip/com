@@ -27,7 +27,7 @@
 ## How we could join
 - Volunteer first. Many Workaway hosts within 10–20 min of Órgiva: off-grid farms with yurts and retreats, a syntropic forest project, "self-sustainable multicultural community" projects, eco places. Several accept **own van or tent**. [Workaway 1](https://www.workaway.info/en/host/256651467427), [2](https://www.workaway.info/en/host/347742378525), [3](https://www.workaway.info/en/host/969626129849), [4](https://www.workaway.info/en/host/236412544343), [5](https://www.workaway.info/en/host/355277872227) (checked 2026-09-27)
 - Rent a cortijo, or lease land from a newcomer. *Common here, guess.*
-- Contribute: wife = cooking, yoga, gardening, animals (big fit with retreat hosts). Ondrej = community building, tech, education (schools need help).
+- Contribute: Nesli = cooking, yoga, gardening, animals (big fit with retreat hosts). Ondrej = community building, tech, education (schools need help).
 - Later: buy a cortijo with **acequia water rights** (listings often say "8 hours of acequia irrigation"). [idealista Órgiva land](https://www.idealista.com/en/venta-terrenos/orgiva-granada/)
 
 ## Legal flags
@@ -61,16 +61,16 @@
 | 7 | Lease / join; van legal | 2 | 3 | Many hosts; van tolerated, not legal |
 | 8 | Land / lease prices | 2 | 3 | Mid prices |
 | 9 | Access | 1 | 4 | Granada 1 h, Málaga 1 h 30 |
-| 10 | Language & residency | 1 | 3 | English works; Spanish needed; EU route for wife |
+| 10 | Language & residency | 1 | 3 | English works; Spanish needed; EU route for Nesli |
 | 11 | Traditions alive | 1 | 4 | Acequias, markets, fiestas |
 | 12 | Climate | 2 | 3 | Summers hot (~35 °C, *guess*); mild winters. Higher villages cooler |
 | | **Total** | | **96 / 125** | |
 
-Main doubts: **water in a dry cycle**, **summer heat** (wife), **expat/hippie bubble**.
+Main doubts: **water in a dry cycle**, **summer heat** (Nesli), **expat/hippie bubble**.
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://euroweeklynews.com/2025/12/01/tiny-spanish-mountain-village-where-a-third-of-its-population-are-expats/

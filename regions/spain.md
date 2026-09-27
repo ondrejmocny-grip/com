@@ -56,7 +56,7 @@ Notes on the table:
 - Land prices are asking prices from a few listings. Cheap ones are often steep, far from roads, or split into many small plots (very common in Galicia and Asturias). *(guess from listing texts)*
 
 ## Law and practical
-- **Residency / visa for us:** EU family route (EX-19 for the wife). See [legal overview §1](legal-overview.md#spain-incl-canary-islands). Not repeated here.
+- **Residency / visa for us:** EU family route (EX-19 for Nesli). See [legal overview §1](legal-overview.md#spain-incl-canary-islands). Not repeated here.
 - **Living in a van — legal? Where?** Not on your own rustic land long-term. A van or yurt that stays is treated like a building. See [legal overview §3](legal-overview.md#3-van--yurt-on-private-rural-land).
   - Real-life risk: police cleared a big alternative camp in Beneficio (Órgiva) in Dec 2023. [Seaside Gazette](https://www.theseasidegazette.com/2023/12/102988/police-dismantle-encampment/)
   - *Practical start: join a project that has a campsite or rural-tourism licence, or rent a house in the village while looking (guess).*

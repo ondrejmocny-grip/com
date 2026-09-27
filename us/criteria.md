@@ -45,6 +45,6 @@
 | 9 | Access (airport, health care) | 1 | Not critical |
 | 10 | Language & residency ease (for both of us) | 1 | |
 | 11 | Local traditions still alive | 1 | |
-| 12 | Climate: mild, no strong cold or heat | 2 | Wife: neither cold nor very hot |
+| 12 | Climate: mild, no strong cold or heat | 2 | Nesli: neither cold nor very hot |
 
 **Total** = sum of (score × weight). Max = 125.

@@ -33,10 +33,10 @@
 | Albania | ⚠️ In law (69/2012, art. 17), but in practice only for disability | [HSLDA](https://hslda.org/post/albania) |
 | Montenegro | ⚠️ Unclear (HSLDA "updating"). *Probably not allowed. Guess* | [HSLDA](https://hslda.org/post/montenegro) |
 
-### Residency (Czech EU citizen + Turkish wife)
+### Residency (Czech EU citizen + Nesli (Turkish spouse))
 - **Greece, Croatia, Slovenia, Bulgaria = EU** → EU family route (Directive 2004/38). See [legal overview](legal-overview.md).
 - **Albania (not EU):** EU citizens staying 90+ days register online and get a residence certificate. Non-EU spouse of an EU citizen can get a **residence card up to 5 years**. [howalbania](https://howalbania.com/family-reunification-albania/), [Karanovic & Partners](https://www.karanovicpartners.com/news/albania-adopts-amendments-to-the-law-on-foreigners/)
-- **Montenegro (not EU):** no EU family route. Options: **digital nomad permit** (min. €1,350/month remote income, 2 years + 2) with family reunification for the wife; or property ≥ €150,000 (1 year, renewable, no work). [digitalnomads.gov.me](https://digitalnomads.gov.me/article/legal-status-for-nomads), [IMI Daily](https://www.imidaily.com/program-updates/montenegro-sets-e150000-minimum-for-property-based-residency/)
+- **Montenegro (not EU):** no EU family route. Options: **digital nomad permit** (min. €1,350/month remote income, 2 years + 2) with family reunification for Nesli; or property ≥ €150,000 (1 year, renewable, no work). [digitalnomads.gov.me](https://digitalnomads.gov.me/article/legal-status-for-nomads), [IMI Daily](https://www.imidaily.com/program-updates/montenegro-sets-e150000-minimum-for-property-based-residency/)
 
 ### Van / yurt on rural land
 - **Greece:** wild camping banned since 1976; law 5170/2025 bans campers in public places. **One camper per private property is allowed.** [nikana.gr](https://nikana.gr/en/blog/7342/new-camping-law-in-greece-2025-rules-restrictions-and-penalties-for-camper-vehicles)
@@ -46,7 +46,7 @@
 - Yurts everywhere: *building permit likely needed. Guess.*
 
 ### Buying land
-- **Bulgaria:** EU citizens can buy land in own name; non-EU (the wife) only via a Bulgarian company. [ELRA](https://www.elra.eu/contact-point-contribution/bulgaria/limitations-to-foreigners/), [bulgarianproperties](https://www.bulgarianproperties.com/property-buying-procedure.htm)
+- **Bulgaria:** EU citizens can buy land in own name; non-EU (Nesli) only via a Bulgarian company. [ELRA](https://www.elra.eu/contact-point-contribution/bulgaria/limitations-to-foreigners/), [bulgarianproperties](https://www.bulgarianproperties.com/property-buying-procedure.htm)
 - Others (EU): *no special limit for Ondrej as EU citizen. Guess, verify.*
 
 ## Money (2026-09-27 snapshots)
@@ -60,7 +60,7 @@
 - **Greece fire:** severe fires every summer (2023: 80+ fires, 28 dead; 2024 Attica). [Wikipedia 2023](https://en.wikipedia.org/wiki/2023_Greece_wildfires), [Wikipedia 2024](https://en.wikipedia.org/wiki/2024_Greek_wildfires)
 - **Slovenia:** biggest fire in its history in Kras, July 2022 (3,700 ha). [Slovenia Times](https://sloveniatimes.com/40672/two-years-after-wildfire-restoration-in-kras-ongoing)
 - **Istria:** summer water limits in 2022 and 2026. [Croatia Week](https://www.croatiaweek.com/istria-water-restrictions-heatwave-demand-2026/)
-- Balkan mountains (Soča, Rhodopes, Pirin): *cold, snowy winters — hard for the wife. Guess.*
+- Balkan mountains (Soča, Rhodopes, Pirin): *cold, snowy winters — hard for Nesli. Guess.*
 
 ## Language
 - Greek (hard, new alphabet). Croatian, Slovene, Montenegrin, Bulgarian = Slavic → **easier for Ondrej** (Czech, some Russian). Albanian = unique.

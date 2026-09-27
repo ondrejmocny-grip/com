@@ -22,7 +22,7 @@ A retreat centre and "intentional community" on **30 ha with a small river**, in
 ## How we could join
 - **Volunteering / WWOOF**: they welcome WWOOFers and volunteers. [sustainableliving.pt](https://www.sustainableliving.pt/projects/loural-ecovillage)
 - Licensed tourism: tourist establishment numbers 6900, 9676, 9677 (from site footer). A licensed site may make a **van / yurt start legal** there. *(guess)*
-- Wife could fit: food, yoga, healing retreats. Ondrej: tech, community.
+- Nesli could fit: food, yoga, healing retreats. Ondrej: tech, community.
 - Residency / membership / land lease terms: **unknown**, ask.
 
 ## Legal flags
@@ -55,7 +55,7 @@ A retreat centre and "intentional community" on **30 ha with a small river**, in
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://louralecovillage.com/en/

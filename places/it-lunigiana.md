@@ -67,7 +67,7 @@ Green, wet, quiet valley with stone villages and castles. Close to the sea and t
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://en.wikipedia.org/wiki/Lunigiana

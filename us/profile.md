@@ -2,22 +2,22 @@
 
 > Status: **v4 — confirmed** (2026-09-27, after grilling rounds 1–3).
 > Items marked `?` are not decided yet (see [open-questions.md](open-questions.md)).
-> Wife mostly agrees with round 1 (confirmed via Ondrej). Her own wishes are marked **(wife)**.
+> Nesli mostly agrees with round 1 (confirmed via Ondrej). Her own wishes are marked **(Nesli)**.
 
 ## Who we are
 
 | Topic | Answer |
 |---|---|
-| People | Ondrej and his wife |
+| People | Ondrej and Nesli |
 | Kids | Planned |
-| Citizenship | Ondrej: Czech (EU). Wife: Turkish |
-| Residency plan | Czech permit for wife is **not required**. Main path: EU family route directly in the new country (see [legal overview](../regions/legal-overview.md)) |
+| Citizenship | Ondrej: Czech (EU). Nesli: Turkish |
+| Residency plan | Czech permit for Nesli is **not required**. Main path: EU family route directly in the new country (see [legal overview](../regions/legal-overview.md)) |
 | Languages – Ondrej | Czech, English, Turkish, some Russian and German, a little Spanish |
-| Languages – wife | Turkish, English |
+| Languages – Nesli | Turkish, English |
 | Learning languages | Both willing to learn the local language |
 | Work – Ondrej | Remote job |
-| Work – wife | Small, seasonal work only: farming, healing work, food |
-| Wife's experience | Chef, gardening, yoga & pilates, veterinary work |
+| Work – Nesli | Small, seasonal work only: farming, healing work, food |
+| Nesli's experience | Chef, gardening, yoga & pilates, veterinary work |
 | Where we are now | Turkey → then Czechia → then first scouting in Portugal |
 
 ## What we are looking for
@@ -56,21 +56,21 @@
 - Community building
 - Technical projects
 - Education
-- (wife) Cooking, gardening, yoga & pilates, animal care
+- (Nesli) Cooking, gardening, yoga & pilates, animal care
 
 ### Housing path
 1. Start: park our **van**.
 2. Later: **yurt**, **glamping**, or a **simple stone house**.
 3. Land: **lease or join** someone's land/project first. Maybe **buy later** (after 1–2 years).
-4. **A few small animals** (wife has vet experience) → plan about **1 ha** of land.
+4. **A few small animals** (Nesli has vet experience) → plan about **1 ha** of land.
 5. When buying: land where **rural tourism / retreat** use can be licensed.
 
 ## Land and nature
 
 - **Water is key.** Enough water sources. No drought or dryness problems.
 - **Mountains:** we want mountains in view, or at least close by.
-- **Sea and mountains both nearby** (wife prefers both).
-- **Climate:** mild. Ondrej: heat OK, cold worse. Wife: **no cold and no strong heat**.
+- **Sea and mountains both nearby** (Nesli prefers both).
+- **Climate:** mild. Ondrej: heat OK, cold worse. Nesli: **no cold and no strong heat**.
 - Green or dry landscape: both possible (if water is OK).
 - Rhythm: **6 months in one place and 6 months travel** each year. Which season is home: no preference.
 
@@ -80,7 +80,7 @@
 - Focus now: **Spain, Portugal, Canary Islands**.
 - Also open: Italy, Greece, France, Balkans and others (later).
 - Turkey stays as the **benchmark**.
-- (wife) Curious about Europe, but **needs to see places in person** first.
+- (Nesli) Curious about Europe, but **needs to see places in person** first.
 
 ## Practical frame
 

@@ -64,7 +64,7 @@ Main doubt: **families and schooling** (must-have).
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://gomeracorazonverde.com/en/

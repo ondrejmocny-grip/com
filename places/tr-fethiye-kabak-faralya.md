@@ -26,10 +26,10 @@ Fethiye's back country is Turkey's oldest yoga-retreat area. Kabak valley has ha
 - *Village life (Yörük shepherds in the mountains, goat farming) still alive in Faralya / Seydikemer (guess).*
 
 ## How we could join
-- Seasonal work / volunteering in yoga camps (wife: yoga, cooking). *Many camps take staff Apr–Nov (guess).*
+- Seasonal work / volunteering in yoga camps (Nesli: yoga, cooking). *Many camps take staff Apr–Nov (guess).*
 - Van: *camps in Kabak / Faralya may let you park (guess).*
 - Yurt / tiny house on own farmland: ❌ not legal as a home (see [Turkey note](../regions/turkey.md)).
-- Land: buy in wife's name.
+- Land: buy in Nesli's name.
 
 ## Water (honest)
 - Wetter than the North Aegean (mountains catch rain). *~800–900 mm/yr (guess, verify).*
@@ -68,7 +68,7 @@ Fethiye's back country is Turkey's oldest yoga-retreat area. Kabak valley has ha
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.gercekfethiye.com/fethiyede-6-bin-167-yerlesik-yabanci-yasiyor/22247/

@@ -5,26 +5,26 @@ Things we still need to decide together. When decided, move the answer to `profi
 ## Decisions (ours)
 - [x] Land budget and how big a loan we accept.
 - [x] Buy, rent, lease, or join someone's land?
-- [x] Wife's work / income.
-- [x] Wife's own must-haves and deal-breakers.
+- [x] Nesli's work / income.
+- [x] Nesli's own must-haves and deal-breakers.
 - [x] Which 6 months at home, which 6 months traveling?
 - [x] How deep a connection with locals do we want?
 - [x] What we bring to a community (skills, project ideas).
 - [x] Max travel time for parents (from Czechia and Turkey).
 - [x] Is legal home schooling a must? → No, but flag it. (Spain = grey zone, Greece/Turkey = illegal, see [legal overview](../regions/legal-overview.md))
-- [x] Wife: Czech permit? → Not needed. Use the EU family route.
+- [x] Nesli: Czech permit? → Not needed. Use the EU family route.
 
 - [x] Does one of us have a bachelor's degree? → Yes.
 - [x] How much own savings can we add on top of a loan? → ~300,000 CZK (~€12k).
 - [ ] Health care needs (once kids come).
-- [ ] Wife: does "mild but wet and grey" (Ireland, Asturias, Galicia) count as "cold" for her?
-- [ ] Wife: are snowy but sunny mountain winters (La Taha, Couserans) OK if we travel in winter?
+- [ ] Nesli: does "mild but wet and grey" (Ireland, Asturias, Galicia) count as "cold" for her?
+- [ ] Nesli: are snowy but sunny mountain winters (La Taha, Couserans) OK if we travel in winter?
 - [ ] Is French an option for us (France = strong scene, but French needed)?
 - [x] When does the Portugal trip start? → Probably around November 2026.
 - [ ] Is the van ready?
 
 ## Facts to research (Claude)
-- [x] Wife's residency → done, see [legal overview](../regions/legal-overview.md) §1.
+- [x] Nesli's residency → done, see [legal overview](../regions/legal-overview.md) §1.
 - [x] Home schooling per country → done, §2.
 - [x] Van / yurt rules Spain & Portugal → done (general rule), §3. Needs a local check per place.
 - [ ] Portugal home schooling: is a bachelor's degree required for the parent? (conflicting sources)

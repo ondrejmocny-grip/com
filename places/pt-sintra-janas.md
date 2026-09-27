@@ -64,7 +64,7 @@ Note: high score comes from water + schools. But the land price and suburban fee
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://numundo.org/center/portugal/ecoaldeia-de-janas
@@ -130,7 +130,7 @@ A green, hilly area by the sea, 30–45 min from Lisbon. Strong alternative fami
 
 ### Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ### Sources
 - https://www.escolaterra.com/

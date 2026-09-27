@@ -25,7 +25,7 @@ Green, low mountains with chestnut, cork oak and holm oak forests, and old stone
 - The Sierra takes part in "Vente a vivir a un pueblo" to attract new residents. [Huelva24, 2024-02-03](https://www.huelva24.com/provincia/sierra/vente-vivir-pueblo-sierra-aracena-incorpora-plataforma-20240203105853-nth.html)
 
 ## How we could join
-- Volunteer: Workaway farm-sit in Fuenteheridos (25 ha, olives, cork, chestnuts, sheep, horses). Fits the wife's animal skills. [Workaway](https://www.workaway.info/en/host/438212279321)
+- Volunteer: Workaway farm-sit in Fuenteheridos (25 ha, olives, cork, chestnuts, sheep, horses). Fits Nesli's animal skills. [Workaway](https://www.workaway.info/en/host/438212279321)
 - Rent a village house or finca nearby; get to know Calabacino families. *Guess — ask on site.*
 - Later: buy a small finca with a **legal well (pozo legalizado)**. Listings: 4,000 m² chestnut plot with legal well in Galaroza; 7 ha with legal well; 5 ha in Alájar. [search summary of idealista / milanuncios, 2026-09-27](https://www.idealista.com/venta-terrenos/aracena-huelva/)
 - Contribute: yoga, cooking, animal care, community building, education (La Semilla is run with parent volunteer work).
@@ -59,7 +59,7 @@ Green, low mountains with chestnut, cork oak and holm oak forests, and old stone
 | 7 | Lease / join; van legal | 2 | 2 | Natural Park: court cases |
 | 8 | Land / lease prices | 2 | 4 | Cheaper than coast |
 | 9 | Access | 1 | 3 | Seville ~1 h 15 |
-| 10 | Language & residency | 1 | 3 | Spanish needed; EU route for wife |
+| 10 | Language & residency | 1 | 3 | Spanish needed; EU route for Nesli |
 | 11 | Traditions alive | 1 | 5 | Ham, chestnuts, romerías |
 | 12 | Climate | 2 | 3 | Hot summers, cool damp winters |
 | | **Total** | | **88 / 125** | |
@@ -68,7 +68,7 @@ Main doubts: **Natural Park building rules** (court cases), **2023 water cuts**,
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://ecoaldeas.org/el-calabacino/

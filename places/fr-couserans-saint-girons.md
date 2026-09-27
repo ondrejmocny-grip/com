@@ -62,12 +62,12 @@ The Couserans is a green, wet corner of the French Pyrenees. From the late 1960s
 | 9 | Access | 1 | 3 | Toulouse 1 h 30 |
 | 10 | Language & residency | 1 | 2 | French needed |
 | 11 | Local traditions | 1 | 4 | Pastoralism, Occitan |
-| 12 | Climate | 2 | 2 | 55 frost days/yr, rainy (wife: no cold) [fr.wikipedia](https://fr.wikipedia.org/wiki/Saint-Girons_(Ari%C3%A8ge)) |
+| 12 | Climate | 2 | 2 | 55 frost days/yr, rainy (Nesli: no cold) [fr.wikipedia](https://fr.wikipedia.org/wiki/Saint-Girons_(Ari%C3%A8ge)) |
 | | **Total (max 125)** | | **91** | |
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://en.wikipedia.org/wiki/Massat

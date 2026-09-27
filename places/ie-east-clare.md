@@ -56,7 +56,7 @@ The **birthplace of Steiner education in Ireland** (1986). Today a **state-funde
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.discoverireland.ie/scarriff

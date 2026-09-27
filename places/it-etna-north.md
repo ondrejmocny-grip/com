@@ -61,7 +61,7 @@ Volcano, vineyards, forests and the sea below. Foreign and Italian newcomers com
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://lavocedinewyork.com/en/vetrina-italiana-en/windows-on-sicily-en/2025/09/25/castiglione-di-sicilia-a-jewel-on-the-slopes-of-mount-etna/

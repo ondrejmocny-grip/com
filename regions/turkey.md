@@ -5,7 +5,7 @@
 ## General vibe
 - Scene: mostly **Turkish city leavers** (İstanbul, İzmir white-collar people), fewer foreigners. Eco farms (Buğday / TaTuTa network), yoga camps, bungalow places. Strongest on the North Aegean (Kaz Dağları) and the Lycian coast (Kabak, Faralya, Çıralı).
 - Locals: kind, but some friction with rich villa newcomers. [Paradigma Akademi PDF](https://www.paradigmaakademiyayinlari.com/wp-content/uploads/2022/05/kaz-daglari-ve-geleneksel-ekolojik-bilgi.pdf)
-- Big plus for us: **we both speak Turkish** and the wife is Turkish.
+- Big plus for us: **we both speak Turkish** and Nesli is Turkish.
 - Big minus: **alternative schools exist only in big cities** (BBOM in İzmir-Bornova, Antalya-Döşemealtı, Ankara, İstanbul, Eskişehir). [BBOM](https://www.baskabirokulmumkun.org/okullar/). Alanya Waldorf school closed in 2024. [search summary / ESGD](https://esgd.org.tr/waldorf-alanya/)
 
 ## Areas worth a look
@@ -23,11 +23,11 @@
 - **Home schooling:** ❌ illegal. School is compulsory; parents can face criminal charges. Open school (*Açık Öğretim*) only from age ~14. [HSLDA, 2019](https://hslda.org/post/turkey), [Wohnsitz Ausland](https://www.wohnsitzausland.com/guides/homeschooling-ausland-leitfaden/europa/tuerkei/). ⚠️ *Our kids would be Turkish citizens (Turkish mother), so the "foreigners may homeschool" gap would not help (guess, verify).*
 - **Residency for Ondrej (Czech):** Turkey is not EU, so no EU family route. He needs a **family residence permit (*aile ikamet izni*)** as spouse of a Turkish citizen. [Göç İdaresi](https://www.goc.gov.tr/ikamet-izni-cesitleri)
   - Up to **3 years** per permit. Apply online (e-İkamet), then appointment. Answer within 90 days. [Mıhcı Hukuk](https://mihci.av.tr/aile-ikamet-izni/)
-  - Sponsor (wife) needs: income ≥ **1/3 of minimum wage per family member**, health insurance for all, address registration, clean record (5 years). [Göç İdaresi](https://www.goc.gov.tr/ikamet-izni-cesitleri) *Guess: Ondrej's remote income can count as family income — verify.*
+  - Sponsor (Nesli) needs: income ≥ **1/3 of minimum wage per family member**, health insurance for all, address registration, clean record (5 years). [Göç İdaresi](https://www.goc.gov.tr/ikamet-izni-cesitleri) *Guess: Ondrej's remote income can count as family income — verify.*
   - Long-term permit after 8 years. [Göç İdaresi](https://www.goc.gov.tr/ikamet-izni-cesitleri). *Citizenship by marriage possible after 3 years of marriage (known rule, verify).*
   - *Remote work for a foreign employer: tax and work-permit status unclear — verify.*
 - **Van / yurt / tiny house on rural land:** a tiny house that is fixed or connected to water/power counts as a **building** → needs a permit; not allowed on plain farmland (*tarla*). Tourism "mobile houses" (rule of 18 Jan 2024) need land zoned for camping / eco-tourism, 5–49 units, ≥250 m² each. A small *bağ evi* (≤5% of the plot) is possible on marginal farmland with governor + agriculture office permission. [Mehmet Hallaç](https://www.mehmethallac.com.tr/tarlaya-tiny-house-koymak-yasak-mi/), [Hürriyet](https://www.hurriyet.com.tr/gundem/9-soruda-tiny-house-rehberi-her-araziye-kurulabilir-mi-imar-izni-gerekir-mi-metrekare-sinirlamasi-var-mi-42441685). *Van on a friend's land / camp: tolerated in practice (guess).*
-- **Buying land:** foreigners must get a farm project approved within **2 years** or the land is sold off. [tarimhukuku.org](https://www.tarimhukuku.org/turkiyede-yabancilara-tarim-arazisi-satisi-mumkun-mu/) → **buy in the wife's name**.
+- **Buying land:** foreigners must get a farm project approved within **2 years** or the land is sold off. [tarimhukuku.org](https://www.tarimhukuku.org/turkiyede-yabancilara-tarim-arazisi-satisi-mumkun-mu/) → **buy in Nesli's name**.
 
 ## Money
 - Land is **expensive** in the popular areas. Ayvacık olive groves: Adatepe 4,412 m² ≈ €51k (~€11/m²); 1.3 ha in Gülpınar ≈ €356k. [Emlakjet](https://www.emlakjet.com/satilik-zeytinlik/canakkale-ayvacik). Seydikemer (Fethiye) farmland ~€8–15/m². [Emlak Fabrika](https://www.emlakfabrika.com/). Much higher than inland Portugal.

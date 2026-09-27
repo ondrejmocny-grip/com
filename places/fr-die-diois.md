@@ -29,7 +29,7 @@ The Diois is the upper Drôme valley. Since the 1970s it has drawn "néo-ruraux"
 ## How we could join
 - *Many farms and eco places take volunteers (WWOOF, Workaway) — guess, not counted.*
 - Rent a house in a village, then lease land. *Guess.*
-- Contribute: wife's cooking and herbs fit the local herb/food economy; yoga; Ondrej's community and tech skills.
+- Contribute: Nesli's cooking and herbs fit the local herb/food economy; yoga; Ondrej's community and tech skills.
 
 ## Legal flags
 - Home schooling: ⚠️ France needs a yearly **authorisation** since 2022 (see [france.md](../regions/france.md)). ✅ But legal alternative schools exist: **Terresdenfance** in Die (ages 3–8, since 2013), **École Buissonnière du Diois** (primary). [terresdenfance.fr](https://terresdenfance.fr/), [ecole-buissonniere-diois.org](https://www.ecole-buissonniere-diois.org/) *(site did not load 2026-09-27)*
@@ -66,7 +66,7 @@ The Diois is the upper Drôme valley. Since the 1970s it has drawn "néo-ruraux"
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.diois-tourisme.com/en/pays-diois/the-biovallee/

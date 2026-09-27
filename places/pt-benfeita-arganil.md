@@ -31,7 +31,7 @@ A mountain valley in a normal Portuguese parish. Since years, many "eco-immigran
 - Volunteer first: there are Workaway eco-farms in Benfeita. [Workaway](https://www.workaway.info/en/host/298817812742)
 - Rent a room / house in a village, or lease land from a community member. *(guess — ask in the community)*
 - Van: *no licensed site found yet. Ask ArBOR / Junta how people handle it.*
-- Contribute: wife = cooking, gardening, yoga, animals; Ondrej = community building, tech, education. Folha Verde is run with parent help.
+- Contribute: Nesli = cooking, gardening, yoga, animals; Ondrej = community building, tech, education. Folha Verde is run with parent help.
 - Later: buy land. Small plots appear on sale in Benfeita and nearby Folques (with wells and springs). [idealista, 2026-09-27](https://www.idealista.pt/en/comprar-terrenos/arganil/arganil/)
 
 ## Legal flags
@@ -61,7 +61,7 @@ Uses the 12 criteria from [`../us/criteria.md`](../us/criteria.md).
 | 7 | Lease / join; van legal | 2 | 3 | Informal; ask |
 | 8 | Land / lease prices | 2 | 4 | Interior, cheap |
 | 9 | Access | 1 | 2 | Remote, winding roads |
-| 10 | Language & residency | 1 | 3 | English works; EU route for wife |
+| 10 | Language & residency | 1 | 3 | English works; EU route for Nesli |
 | 11 | Traditions alive | 1 | 4 | Schist villages, old farming |
 | 12 | Climate | 2 | 3 | Hot summers, cool wet winters |
 | | **Total** | | **94 / 125** | |
@@ -70,7 +70,7 @@ Main doubt: **wildfire** (two huge fires in 8 years).
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.permaculturinginportugal.net/projects/community/

@@ -29,7 +29,7 @@ Not one project, but a **zone**: normal Canarian towns in the green north of Ten
 - Join La Gangochera co-op; ask its farms about leasing land. *(guess)*
 - Ilatán (Icod de los Vinos): eco-village with 1 ha forest. ⚠️ Entry process: form, video call, visits, **one-year trial** → closer to an intentional community. OK to visit, *probably not our model (guess)*. [ecobuking](https://viajes.ecobuking.es/complejo/ilatan/)
 - Van: Cabildo camping zones, max 7 days with permit. Wild camping forbidden. [Cabildo de Tenerife](https://www.tenerife.es/zonas-de-acampada)
-- Contribute: wife = cooking, gardening, yoga, animals; Ondrej = community, tech, education (schools are parent-run).
+- Contribute: Nesli = cooking, gardening, yoga, animals; Ondrej = community, tech, education (schools are parent-run).
 
 ## Legal flags
 - Home schooling: ⚠️ grey zone (Spain). But several alternative schools here → less need to home-school. *Check if they are officially approved.* [legal overview](../regions/legal-overview.md)
@@ -68,7 +68,7 @@ Main doubt: **water** (possible deal-breaker) and **price**.
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.ellucero.es/

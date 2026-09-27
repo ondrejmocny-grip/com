@@ -34,7 +34,7 @@ The green, quiet northwest of La Palma. Normal Canarian farming villages, with m
 - Rent a house in a village, or lease a finca from an older owner. *(guess — ask at the market)*
 - Van: no legal long stay on public land (see [region](../regions/canary-islands.md#law-and-practical)). *Park on a host's finca (grey zone) (guess).*
 - Later buy: NW fincas with irrigation ~€145k for 1.1 ha; 1 ha + house €235k; one plot in Llano Negro says "~60 tourist beds possible". [la-palma24.es, 2026-09-27](https://www.la-palma24.es/property-type/finca-agricoa/)
-- Contribute: wife = cooking, gardening, yoga, animals; Ondrej = community, tech. The Waldorf group needs families to restart primary.
+- Contribute: Nesli = cooking, gardening, yoga, animals; Ondrej = community, tech. The Waldorf group needs families to restart primary.
 
 ## Legal flags
 - Home schooling: ⚠️ grey zone (Spain). Waldorf kindergarten "Lena" in Los Llanos; **primary group closed for now**. Escuela Libre San Miguel (El Paso) no longer listed. [Waldorf blog](http://grupowaldorflapalma.blogspot.com/), [ludus](https://ludus.org.es/en/escuela-libre-san-miguel-de-la-palma)
@@ -70,7 +70,7 @@ Main doubt: **wildfire (2023)** and **few school options** for now.
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.eldiario.es/canariasahora/lapalmaahora/sociedad/puntagorda-municipio-palma-mayor-porcentaje-residentes-extranjeros_1_8293120.html

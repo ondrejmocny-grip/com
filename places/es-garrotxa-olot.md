@@ -25,7 +25,7 @@ A green volcanic county in the Pyrenees foothills. Olot is a real, lively Catala
 ## How we could join
 - Volunteer: Workaway / WWOOF farms in the county (check live listings).
 - Rent a room or a masia flat first. *Lease a piece of a masia farm: possible but needs local contacts (guess).*
-- Contribute: wife = cooking, yoga, animals; Ondrej = community, tech, education (Waldorf schools are parent-run and need help).
+- Contribute: Nesli = cooking, yoga, animals; Ondrej = community, tech, education (Waldorf schools are parent-run and need help).
 - Van: ⚠️ Natural Park of the Garrotxa Volcanic Zone has strict rules. *Park only on a friend's farm or licensed camping (guess).*
 
 ## Legal flags
@@ -58,11 +58,11 @@ A green volcanic county in the Pyrenees foothills. Olot is a real, lively Catala
 | 12 | Climate | 2 | 3 | Cold, foggy winters; mild summers |
 | | **Total** | | **81 / 125** | |
 
-Main doubt: **price** and Catalan language; cold winters for the wife.
+Main doubt: **price** and Catalan language; cold winters for Nesli.
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://ludus.org.es/es/projects?province_id=32&age=admits_children

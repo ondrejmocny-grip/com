@@ -28,7 +28,7 @@ Arcidosso is a normal mountain market town on Monte Amiata. Since 1981 the Buddh
 - Merigar has **no housing on site**. People stay in the villages around. [Merigar FAQ](https://www.merigar.it/en/f.a.q/)
 - Start: rent a room/house in Arcidosso, take part in retreats and karma-yoga work. *Volunteering options not checked.*
 - Other local projects: "Dynamic Space of the Elements" (courses, events, jobs for youth), ASIA NGO, Tibetan shop. [Merigar partners](https://www.merigar.it/en/dzogchen-community/partners/) Other eco farms / yoga places: *not found yet.*
-- Contribute: wife = cooking for retreats, yoga, gardening, animals. Ondrej = community, tech, education.
+- Contribute: Nesli = cooking for retreats, yoga, gardening, animals. Ondrej = community, tech, education.
 
 ## Legal flags
 - Home schooling: ✅ legal in Italy (see [italy.md](../regions/italy.md)). ⚠️ No alternative school found near Arcidosso (only state schools). [tuttitalia Arcidosso](https://www.tuttitalia.it/toscana/22-arcidosso/71-scuole/) A Steiner school is listed at **Pitigliano** (GR), *~45–60 min (guess)*. [search result, rudolfsteiner.it](https://rudolfsteiner.it/indirizzi/toscana/scuole-e-asili-steineriani)
@@ -72,7 +72,7 @@ Arcidosso is a normal mountain market town on Monte Amiata. Since 1981 the Buddh
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.merigar.it/

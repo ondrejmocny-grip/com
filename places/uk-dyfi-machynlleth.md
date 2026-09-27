@@ -58,7 +58,7 @@ The "green capital" of Wales. CAT (since 1974) brought eco people for 50 years. 
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.midwalesmyway.com/machynlleth

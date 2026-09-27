@@ -28,7 +28,7 @@ A mountain peninsula (1,600 m) that falls straight into the sea. The east side i
 - Van: new law 5170/2025 bans campers in public places. **Only one camper per private property** is allowed. [nikana.gr, 2025](https://nikana.gr/en/blog/7342/new-camping-law-in-greece-2025-rules-restrictions-and-penalties-for-camper-vehicles), [camplinq](https://camplinq.com/camping-rules-in-greece/). So: park on a friend's / host's land = *possible*.
 - Yurt on land: *unclear, probably needs a permit. Guess.*
 - Rent an old stone house in winter (tourist houses are empty). *Guess.*
-- Contribute: wife = cooking, yoga, gardening (fits Kalikalos-type projects).
+- Contribute: Nesli = cooking, yoga, gardening (fits Kalikalos-type projects).
 
 ## Water (honest)
 - East Pelion is one of the wettest places in Greece. "Springs come out of the mountain everywhere, which is why it is green when the plain below is burnt." [search summary: travelthegreekway / aroundpelion](https://www.aroundpelion.com/villages/tsagarada)
@@ -70,7 +70,7 @@ Main doubts: **schooling (Greece)**, small scene, winter cold at altitude, flood
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://en.wikipedia.org/wiki/Zagora,_Greece

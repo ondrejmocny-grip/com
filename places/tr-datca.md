@@ -52,7 +52,7 @@ Very popular with İstanbul people who "leave the city". Almonds, olives, honey,
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.yarimadakafasi.com.tr/koyler/

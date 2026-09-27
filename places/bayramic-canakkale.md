@@ -33,7 +33,7 @@ Our first example of what we like. People came from cities (Turkish and internat
 | 7 | Housing path | `?` |
 | 8 | Land prices | 2 |
 | 9 | Access | `?` |
-| 10 | Language & residency | `?` (easy for wife, harder for Ondrej) |
+| 10 | Language & residency | `?` (easy for Nesli, harder for Ondrej) |
 | 11 | Traditions | `?` |
 | 12 | Climate | `?` |
 

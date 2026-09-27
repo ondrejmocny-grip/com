@@ -15,7 +15,7 @@
 | 5 | [Penela / Lousã](places/pt-penela-lousa.md) | PT centre | 89 | 2 international learning communities | 🔥 |
 | 6 | [Serra de Monchique](places/pt-monchique.md) | PT south | 89 | Mountains, sea 30 min, cheap land | 🔥🔥 · 💧 region |
 | 7 | [Sierra de Aracena (El Calabacino)](places/es-aracena-alajar.md) | ES south | 88 | "Family of families": ~60 adults, ~50 kids, free school | Park fines 2017 · 💧 2023 cuts · 🏫 |
-| 8 | [La Vera](places/es-la-vera.md) | ES centre | 88 | Best water in Spain, free schools, cheap | Sea 3.5 h+ (fails wife's wish) · 🔥 |
+| 8 | [La Vera](places/es-la-vera.md) | ES centre | 88 | Best water in Spain, free schools, cheap | Sea 3.5 h+ (fails Nesli's wish) · 🔥 |
 | 9 | [Valles Pasiegos](places/es-valles-pasiegos-cantabria.md) | ES north | 88 | State-recognised Waldorf school, very green | Almost no spiritual scene · 🏫 |
 | 10 | [Tenerife north (Tegueste)](places/ic-tenerife-north-tegueste.md) | Canaries | 88 | Most alternative schools on the islands, perfect climate | 💧 Island water emergency 2024–26 · 💶 · 🔥 2023 |
 | 11 | [Friol / Lugo](places/es-friol-lugo.md) | ES north | 87 | Big Waldorf school (1/3 international), cheap land | Mountains/sea ~1 h · 🔥 2025 · 🏫 |
@@ -54,7 +54,7 @@
 
 **Dropped for water:** [Crete Apokoronas](places/gr-crete-apokoronas.md) · [Conflent / Prades](places/fr-conflent-prades.md) · [West Liguria](places/it-ponente-ligure-val-nervia.md) · [Datça](places/tr-datca.md) · [Seferihisar / Urla](places/tr-seferihisar-urla.md)
 
-**Country view:** Spain/Portugal stay first. **Ireland** is the real new option (EU, legal home schooling, lots of water, English) — if the wife accepts mild but wet winters. **France** is strong but has a hard trade-off (wet = cold and far from sea; near sea = dry). Italy, Greece, Balkans, Turkey = second choice (water, schooling or van rules). UK = blocked by visas.
+**Country view:** Spain/Portugal stay first. **Ireland** is the real new option (EU, legal home schooling, lots of water, English) — if Nesli accepts mild but wet winters. **France** is strong but has a hard trade-off (wet = cold and far from sea; near sea = dry). Italy, Greece, Balkans, Turkey = second choice (water, schooling or van rules). UK = blocked by visas.
 
 ## Dropped (kept for reference)
 
@@ -78,7 +78,7 @@
 |---|---|---|
 | **Portugal** | Legal home schooling, biggest eco-family scene (Centre), cheap land | 🔥 Fire in the Centre, 💧 drought in the south |
 | **Spain mainland** | Sea + mountains close, Spanish is easier for you, Órgiva is the biggest hub | 🏫 Home schooling grey zone, 💧 in the south, strict rustic-land rules |
-| **Canary Islands** | Best climate (fits wife best) | 💧 Water emergencies, 💶 highest land prices in Spain, strict van rules, new ban on holiday rentals on rustic land |
+| **Canary Islands** | Best climate (fits Nesli best) | 💧 Water emergencies, 💶 highest land prices in Spain, strict van rules, new ban on holiday rentals on rustic land |
 
 **First conclusion:** The **Canaries** fit best as a **winter travel base**, not as a home. The real choice is between the **Portugal Centre** (people and schools, but fire), **Órgiva** (people, but water) and the **green north** (Asturias / Minho: water and safety, but a smaller scene).
 

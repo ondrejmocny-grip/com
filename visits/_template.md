@@ -13,7 +13,7 @@
 
 ## How it felt
 - Ondrej: 
-- Wife: 
+- Nesli: 
 
 ## Red flags
 - 

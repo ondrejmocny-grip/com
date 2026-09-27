@@ -65,7 +65,7 @@ Idea: use Aljezur as the hub and live in the Monchique hills (see [pt-monchique.
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://pureportugal.co.uk/blogs/communities-in-portugal/

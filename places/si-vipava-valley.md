@@ -65,7 +65,7 @@ Main doubts: **no Órgiva-type newcomer scene** (check on site), van illegal, wi
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.cnn.com/travel/article/vipava-valley-slovenia

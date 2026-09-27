@@ -55,11 +55,11 @@ Since the 1960s–70s, artists, craftspeople and "blow-ins" from England, German
 | 12 | Climate | 2 | 2 | No heat, no hard cold, but wet and grey |
 | | **Total** | | **93 / 125** | |
 
-Main doubts: **rain / grey winters** (wife: will "mild but wet" be OK?), house prices, caravan rules.
+Main doubts: **rain / grey winters** (Nesli: will "mild but wet" be OK?), house prices, caravan rules.
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://en.wikipedia.org/wiki/Skibbereen

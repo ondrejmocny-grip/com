@@ -1,6 +1,6 @@
 # Notes for Claude
 
-This is a personal research project, not code. Ondrej and his wife are looking for a community and land to root themselves in.
+This is a personal research project, not code. Ondrej and Nesli are looking for a community and land to root themselves in.
 
 ## Rules
 

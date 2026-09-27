@@ -26,7 +26,7 @@ Very green mountain valleys with stone cabins ("cabañas pasiegas"), 20–50 km 
 ## How we could join
 - Volunteer at cabin / permaculture hosts first.
 - Rent or lease a "cabaña pasiega" with meadow: *many are empty (guess).* Use the Vente a Vivir a un Pueblo / LEADER database.
-- Contribute: wife = animals (cattle country), cheese / food, yoga; Ondrej = tech, community.
+- Contribute: Nesli = animals (cattle country), cheese / food, yoga; Ondrej = tech, community.
 - Van: ⚠️ *Some hosts live in caravans on their land (tolerated? guess).*
 
 ## Legal flags
@@ -61,7 +61,7 @@ Main doubt: **no clear like-minded scene** — good frame (school, water, sea+mo
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://waldorfcantabria.es/

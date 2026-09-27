@@ -1,6 +1,6 @@
 # Finding Our Place
 
-A shared notebook for Ondrej and his wife. The goal: find a community and a piece of land where we can put down roots.
+A shared notebook for Ondrej and Nesli. The goal: find a community and a piece of land where we can put down roots.
 
 ## What we look for (short version)
 

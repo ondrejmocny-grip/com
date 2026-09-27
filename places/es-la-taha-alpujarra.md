@@ -56,11 +56,11 @@ Not a new hub. It is a **"live 20–40 min from the hub" option** for Órgiva (o
 | 12 | Climate | 2 | 3 | Cooler summers; cold, snowy winters *(guess)* |
 | | **Total** | | **97 / 125** | |
 
-Main doubts: winter cold (wife), long drive to school, very small villages.
+Main doubts: winter cold (Nesli), long drive to school, very small villages.
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://en.wikipedia.org/wiki/La_Taha

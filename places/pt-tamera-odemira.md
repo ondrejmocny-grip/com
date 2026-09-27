@@ -33,7 +33,7 @@ Not scored. Dropped by a deal-breaker (closed community / ideological structure)
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://en.wikipedia.org/wiki/Tamera

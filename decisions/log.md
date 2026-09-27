@@ -15,7 +15,7 @@ Newest on top. One entry per decision.
 ## 2026-09-27 — Shared understanding confirmed
 - **Decision:** Grilling done. Profile v4 and criteria v4 confirmed as our base.
 - **Next:** Research Portugal first, then Spain and Canary Islands.
-- **Who:** Ondrej and wife.
+- **Who:** Ondrej and Nesli.
 
 ---
 
@@ -24,22 +24,22 @@ Newest on top. One entry per decision.
 - **Decision:** Mix setting — near an established hub, but in a cheaper area. Our own small project later.
 - **Decision:** Dying village = deal-breaker. Wildfire, expat bubble, mass tourism = flags only.
 - **Decision:** A few small animals, ~1 ha land. Pick language after first trip.
-- **Who:** Ondrej and wife.
+- **Who:** Ondrej and Nesli.
 
 ---
 
 ## 2026-09-27 — Schooling and residency (grilling round 3)
 - **Decision:** Legal home schooling is not a must, but always flag it.
-- **Decision:** Czech permit for wife is not needed; use the EU family route.
-- **Who:** Ondrej and wife.
+- **Decision:** Czech permit for Nesli is not needed; use the EU family route.
+- **Who:** Ondrej and Nesli.
 
 ---
 
 ## 2026-09-27 — Land and family (grilling round 2)
 - **Decision:** Lease or join a project first; maybe buy later. Loan max €1,000/month.
 - **Decision:** Other young families nearby = must-have. Sea + mountains both nearby. Mild climate.
-- **Why:** Kids planned (home / alternative schooling). Wife wants sea and mountains and dislikes cold and strong heat.
-- **Who:** Ondrej and wife.
+- **Why:** Kids planned (home / alternative schooling). Nesli wants sea and mountains and dislikes cold and strong heat.
+- **Who:** Ondrej and Nesli.
 
 ---
 
@@ -48,11 +48,11 @@ Newest on top. One entry per decision.
 - **Decision:** Water and mountains are hard criteria.
 - **Decision:** Scout this autumn, choose a place within one year.
 - **Why:** Bayramiç showed what we like (project-building newcomers, kind locals) and what we miss (mountains, lower land prices).
-- **Who:** Ondrej (wife to confirm).
+- **Who:** Ondrej (Nesli to confirm).
 
 ---
 
 ## 2026-09-27 — Start the project
 - **Decision:** Build a shared research notebook in this repo.
 - **Why:** To build a common understanding between us, then research places in Europe.
-- **Who:** Ondrej and wife.
+- **Who:** Ondrej and Nesli.

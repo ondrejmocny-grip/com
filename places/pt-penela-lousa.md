@@ -61,7 +61,7 @@ A **hub** area, not a single project. Two alternative learning communities for k
 
 ## Feelings
 Ondrej: 
-Wife: 
+Nesli: 
 
 ## Sources
 - https://www.waterfallvalleyed.org

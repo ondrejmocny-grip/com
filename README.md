@@ -18,6 +18,7 @@ Full details: [`us/profile.md`](us/profile.md).
 |---|---|
 | [`us/profile.md`](us/profile.md) | Who we are, what we want, what we don't want. The base for everything else. |
 | [`us/criteria.md`](us/criteria.md) | How we score a place. Must-haves, nice-to-haves, deal-breakers. |
+| [`us/orgiva-pattern.md`](us/orgiva-pattern.md) | What makes an "Órgiva-like" hub. Used to search more places. |
 | [`us/open-questions.md`](us/open-questions.md) | Things we have not decided yet. |
 | [`regions/`](regions/) | One file per country or region (Spain, Portugal, Canary Islands, Turkey…). Laws, climate, land prices, general vibe. |
 | [`regions/legal-overview.md`](regions/legal-overview.md) | Residency, home schooling, van/yurt rules compared across countries. |

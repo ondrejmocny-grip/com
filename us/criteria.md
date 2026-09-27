@@ -1,6 +1,6 @@
 # How We Score a Place
 
-> Status: **draft v4** (2026-09-27). Weights are a first guess by Claude. Change them together.
+> Status: **v4 — confirmed** (2026-09-27). Weights are a first guess by Claude. Change them together.
 
 ## Deal-breakers (any one = drop)
 

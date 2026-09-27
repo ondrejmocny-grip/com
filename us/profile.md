@@ -1,6 +1,6 @@
 # Our Profile
 
-> Status: **draft v4** (2026-09-27, after grilling rounds 1–3).
+> Status: **v4 — confirmed** (2026-09-27, after grilling rounds 1–3).
 > Items marked `?` are not decided yet (see [open-questions.md](open-questions.md)).
 > Wife mostly agrees with round 1 (confirmed via Ondrej). Her own wishes are marked **(wife)**.
 

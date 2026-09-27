@@ -4,6 +4,13 @@ Newest on top. One entry per decision.
 
 ---
 
+## 2026-09-27 — Shared understanding confirmed
+- **Decision:** Grilling done. Profile v4 and criteria v4 confirmed as our base.
+- **Next:** Research Portugal first, then Spain and Canary Islands.
+- **Who:** Ondrej and wife.
+
+---
+
 ## 2026-09-27 — Scouting and project (grilling round 3)
 - **Decision:** First scouting trip: Portugal (after Turkey and Czechia).
 - **Decision:** Mix setting — near an established hub, but in a cheaper area. Our own small project later.

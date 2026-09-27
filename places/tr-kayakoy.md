@@ -1,6 +1,6 @@
 # Kayaköy (Kaya valley), Fethiye
 
-- **Status:** ⭐ interesting (Ondrej: asked to research) · lead
+- **Status:** lead
 - **Country / region:** Turkey, Muğla province, Fethiye district. Kayaköy mahallesi = the Kaya valley (old Greek town Levissi on the hill + farm plain below + Keçiler part). ~120–250 m above sea level. 8 km south of Fethiye town. [Wikipedia TR](https://tr.wikipedia.org/wiki/Kayak%C3%B6y,_Fethiye), [Daily Sabah, 2014](https://www.dailysabah.com/travel/2014/08/12/kayakoy-turkeys-famous-ghost-village-comes-to-life)
 - **People (official):** **1,081** (2025). Fethiye district 187,332 (2025). [nufusune / TÜİK](https://www.nufusune.com/fethiye-ilce-nufusu-mugla). Earlier: 1,524 (2000), 975 (2022). [Wikipedia TR](https://tr.wikipedia.org/wiki/Kayak%C3%B6y,_Fethiye)
 - **Nearest town / airport:** Fethiye (hospital, Tuesday market) *~15 min (guess)*. Ölüdeniz beach 5 km. Dalaman airport *~1 h (guess)*.

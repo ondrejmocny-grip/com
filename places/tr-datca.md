@@ -1,6 +1,6 @@
 # Datça peninsula
 
-- **Status:** ⭐ interesting (Ondrej: we are here now; 💧 flag) · researching — **we are in Datça now (Sept 2026)**. ⚠️💧 **Water flag**: structural problem (would be a deal-breaker). Back on the list to check on site. *Deep update 2026-09-27: water is **not equal** everywhere. Center / Kızlan / Reşadiye / Hızırşah look better; the west (Betçe) is bad. See [Water deep-dive](#water-deep-dive-honest).*
+- **Status:** researching — **we are in Datça now (Sept 2026)**. ⚠️💧 **Water flag**: structural problem (would be a deal-breaker). Back on the list to check on site. *Deep update 2026-09-27: water is **not equal** everywhere. Center / Kızlan / Reşadiye / Hızırşah look better; the west (Betçe) is bad. See [Water deep-dive](#water-deep-dive-honest).*
 - **Country / region:** Turkey, Muğla province. Long thin peninsula between the Aegean and the Mediterranean. 436 km², 235 km of coast, highest hill Bozdağ 1,174 m. [Wikipedia TR](https://tr.wikipedia.org/wiki/Dat%C3%A7a). 12 neighbourhoods (former villages), 26,067 people (2025). [nufusune / TÜİK ADNKS 2025](https://www.nufusune.com/datca-ilce-nufusu-mugla)
 - **Nearest town / airport:** Datça town (İskele). Marmaris *~1 h 15 (guess)*. Dalaman or Bodrum airport *~2–3 h (guess)*. Ferry Körmen (Karaköy) ↔ Bodrum. [Yarımada Kafası](https://www.yarimadakafasi.com.tr/koyler/)
 - **Website / contacts:**

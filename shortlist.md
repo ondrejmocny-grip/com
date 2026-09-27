@@ -11,9 +11,6 @@
 | ⭐ [Órgiva](places/es-orgiva-alpujarra.md) | ES | liked the concept |
 | ⭐ [Aljezur](places/pt-aljezur-costa-vicentina.md) | PT | liked the first look |
 | ⭐ [Couserans (Saint-Girons, Massat)](places/fr-couserans-saint-girons.md) | FR | seems interesting |
-| ⭐ [Datça](places/tr-datca.md) | TR | we are here now; 💧 flag |
-| ⭐ [Kayaköy](places/tr-kayakoy.md) | TR | asked to research |
-| ⭐ [Alınca / Karaağaç](places/tr-alinca-karaagac.md) | TR | asked to research |
 | ⭐ [Bayramiç / Çanakkale](places/bayramic-canakkale.md) | TR | our first example / benchmark |
 
 ## All leads, ranked
@@ -64,7 +61,7 @@
 
 **Weaker (below 6/8), for reference:** [Monte Amiata](places/it-amiata-arcidosso.md) (IT, 4/8, 82) · [Vipava](places/si-vipava-valley.md) (SI, 4/8, 82) · [Pelion](places/gr-pelion.md) (GR, 4/8, 80) · [Istria](places/hr-istria-interior.md) (HR, 4/8, 77) · [Lunigiana](places/it-lunigiana.md) (IT, 3/8, 76) · [Etna north](places/it-etna-north.md) (IT, 2/8, 75) · [Idanha-a-Nova](places/pt-idanha-a-nova.md) (PT, 5/8, 74) · [Castelo de Vide](places/pt-castelo-de-vide-marvao.md) (PT, 4/8, 66)
 
-**Back on the list, 💧 flagged:** ⭐ [Datça](places/tr-datca.md) (TR, 6/8, 69) — we are there now; best villages Hızırşah, Kızlan; idea: winter home (Oct–Apr), travel in summer.
+**Back on the list, 💧 flagged:** [Datça](places/tr-datca.md) (TR, 6/8, 69) — we are there now; best villages Hızırşah, Kızlan; idea: winter home (Oct–Apr), travel in summer.
 
 **Dropped for water:** [Crete Apokoronas](places/gr-crete-apokoronas.md) · [Conflent / Prades](places/fr-conflent-prades.md) · [West Liguria](places/it-ponente-ligure-val-nervia.md) · [Seferihisar / Urla](places/tr-seferihisar-urla.md)
 
@@ -81,9 +78,9 @@
 | [Essaouira hinterland](places/ma-essaouira-hinterland.md) | MA | 6/8 | 77 | 💧 Salty, sinking groundwater |
 | [Alta Gallura, Sardinia](places/it-gallura-tempio.md) | IT | 3/8 | 73 | 💧 One dam, 🔥 |
 | [Var hinterland](places/fr-provence-verte-correns.md) | FR | 3/8 | 71 | 💧 Summer limits, 🔥, 💶 |
-| ⭐ [Kayaköy](places/tr-kayakoy.md) | TR | 6/8 | 71 | Few families, protected site, hot summers |
+| [Kayaköy](places/tr-kayakoy.md) | TR | 6/8 | 71 | Few families, protected site, hot summers |
 | [Chefchaouen / Rif](places/ma-chefchaouen-rif.md) | MA | 4/8 | 70 | No newcomer scene, 🔥 |
-| ⭐ [Alınca / Karaağaç](places/tr-alinca-karaagac.md) | TR | 3/8 | 70 | Not a hub, 🔥 · best views, cooler, cheaper |
+| [Alınca / Karaağaç](places/tr-alinca-karaagac.md) | TR | 3/8 | 70 | Not a hub, 🔥 · best views, cooler, cheaper |
 | [Roya valley](places/fr-roya-breil-saorge.md) | FR | 3/8 | 69 | 💧 Limits, floods |
 
 **Dropped:** [Mallorca Tramuntana](places/es-mallorca-tramuntana.md) (💧💶) · [Ibiza north](places/es-ibiza-north.md) (💧💶) · [Cyprus Troodos](places/cy-troodos.md) (💧 worst drought in 100 years) · [Alto Vastese](places/it-alto-vastese-palmoli.md) (💧)

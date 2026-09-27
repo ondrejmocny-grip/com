@@ -27,9 +27,9 @@ Our first example of what we like. People came from cities (Turkish and internat
 | 1 | People | 4 |
 | 2 | Active projects | 5 |
 | 3 | Integration | 3 |
-| 4 | Water | `?` |
+| 4 | Water | 1–2 (⚠️ Bayramiç dam ~11–12% in Dec 2025 – Sep 2026, see [tr-kazdaglari-kucukkuyu.md](tr-kazdaglari-kucukkuyu.md)) |
 | 5 | Mountains | 3 |
-| 6 | Families / schooling | `?` |
+| 6 | Families / schooling | 2 (home schooling illegal in Turkey; alt schools only in big cities) |
 | 7 | Housing path | `?` |
 | 8 | Land prices | 2 |
 | 9 | Access | `?` |

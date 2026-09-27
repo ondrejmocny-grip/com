@@ -4,6 +4,15 @@ Newest on top. One entry per decision.
 
 ---
 
+## 2026-09-27 — Scouting and project (grilling round 3)
+- **Decision:** First scouting trip: Portugal (after Turkey and Czechia).
+- **Decision:** Mix setting — near an established hub, but in a cheaper area. Our own small project later.
+- **Decision:** Dying village = deal-breaker. Wildfire, expat bubble, mass tourism = flags only.
+- **Decision:** A few small animals, ~1 ha land. Pick language after first trip.
+- **Who:** Ondrej and wife.
+
+---
+
 ## 2026-09-27 — Schooling and residency (grilling round 3)
 - **Decision:** Legal home schooling is not a must, but always flag it.
 - **Decision:** Czech permit for wife is not needed; use the EU family route.

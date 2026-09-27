@@ -8,6 +8,7 @@
   - Eco Yuva Faralya yoga retreats: [ecofaralya.com](https://ecofaralya.com)
   - Retreat overview (Kabak, Faralya, Çıralı): [Explore Lycia](https://explorelycia.com/retreats?amp=&amp=)
 - **Added:** 2026-09-27 by Claude (web research)
+- **Deep files (2026-09-27):** [Kayaköy](tr-kayakoy.md) · [Alınca / Karaağaç](tr-alinca-karaagac.md)
 
 **Órgiva pattern:** 6/8 points — ✅ 1 Fethiye is a real town (but big, ~170k *guess*), ✅ 2 many newcomers (Turkish + ~6,000 foreigners), ✅ 3 spread in villages, ✅ 4 many yoga / eco camps, ✅ 5 big Tuesday market, ❌ 6 no alternative school found, ✅ 7 mountains + sea, ⚠️ 8 easy start mostly seasonal (camp work Apr–Nov).
 

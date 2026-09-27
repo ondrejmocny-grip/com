@@ -43,3 +43,10 @@
 
 ## Sources
 - See links above and in the place files.
+
+## Update 2026-09-27 (wider Turkey search)
+- **Water year 2026 was the wettest in 66 years** (Oct 2025–May 2026): Turkey +29% vs normal, +72% vs the year before; Muğla had the most winter rain in the Aegean. Right after the 2025 drought (worst in 50 years). Groundwater and old pipes are still weak points. [Sabah / MGM, 2026-05-11](https://www.sabah.com.tr/trend/galeri/yasam/mgm-duyurdu-turkiyede-yagislar-rekor-kirdi-son-66-yilin-en-yuksek-seviyesi)
+- **Fire, July 2026:** fire near Fethiye (Göcek / Gökçeovacık), ~10 homes evacuated in İnlice. [Hürriyet, 2026-07-22](https://www.hurriyet.com.tr/gundem/son-dakika-fethiyede-orman-yangini-havadan-ve-karadan-mudahale-ediliyor-43247946)
+- **Village plots:** land inside the official village area (*köy yerleşik alanı*) may allow a house below the 2 ha bağ evi rule. *Check with a lawyer.*
+- **Alternative schools:** Fethiye has private pre-schools with Montessori / Waldorf / Reggio methods (Doğa Koleji, Hayata Doğru). No alternative school for ages 6+ found on the Lycian coast.
+- Quick checks: Akyaka/Gökova (maybe — Cittaslow, spring-fed river, no scene found online) · Kaş hinterland (British buyers in Sarıbelen; summer water cuts in Kalkan June 2026) · Çıralı (tiny, seasonal) · Şirince (drop — İzmir water cuts) · Eğirdir (drop — no sea, cold) · Artvin Şavşat & Rize Ayder (fail climate rule) · Bozcaada (drop) · Ayvalık (water cuts Sept 2026).

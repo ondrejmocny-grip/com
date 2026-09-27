@@ -58,6 +58,26 @@
 
 **Country view:** Spain/Portugal stay first. **Ireland** is the real new option (EU, legal home schooling, lots of water, English) — if Nesli accepts mild but wet winters. **France** is strong but has a hard trade-off (wet = cold and far from sea; near sea = dry). Italy, Greece, Balkans, Turkey = second choice (water, schooling or van rules). UK = blocked by visas.
 
+## Wider search (2026-09-27): more countries
+
+| Place | Country | Órgiva points | Score | Main risk |
+|---|---|---|---|---|
+| [Ourika valley](places/ma-ourika-tahannaout.md) | MA | 6/8 | 85 | Sea ~3 h, quake zone, no land buying for foreigners, no EU route for Nesli |
+| [Madeira south-west](places/pt-madeira-southwest.md) | PT | 5/8 | 84 | 💶 Very expensive, nomad bubble, 🔥 2024 |
+| [Taghazout / Paradise Valley](places/ma-taghazout-tamraght-aourir.md) | MA | 6.5/8 | 78 | Surf/yoga tourism, desalinated water |
+| [Bansko / Pirin](places/bg-bansko-pirin.md) | BG | 5/8 | 78 | ❄️ Cold winters, sea far, few projects |
+| [Essaouira hinterland](places/ma-essaouira-hinterland.md) | MA | 6/8 | 77 | 💧 Salty, sinking groundwater |
+| [Alta Gallura, Sardinia](places/it-gallura-tempio.md) | IT | 3/8 | 73 | 💧 One dam, 🔥 |
+| [Var hinterland](places/fr-provence-verte-correns.md) | FR | 3/8 | 71 | 💧 Summer limits, 🔥, 💶 |
+| [Kayaköy](places/tr-kayakoy.md) | TR | 6/8 | 71 | Few families, protected site, hot summers |
+| [Chefchaouen / Rif](places/ma-chefchaouen-rif.md) | MA | 4/8 | 70 | No newcomer scene, 🔥 |
+| [Alınca / Karaağaç](places/tr-alinca-karaagac.md) | TR | 3/8 | 70 | Not a hub, 🔥 · best views, cooler, cheaper |
+| [Roya valley](places/fr-roya-breil-saorge.md) | FR | 3/8 | 69 | 💧 Limits, floods |
+
+**Dropped:** [Mallorca Tramuntana](places/es-mallorca-tramuntana.md) (💧💶) · [Ibiza north](places/es-ibiza-north.md) (💧💶) · [Cyprus Troodos](places/cy-troodos.md) (💧 worst drought in 100 years) · [Alto Vastese](places/it-alto-vastese-palmoli.md) (💧)
+
+**View:** No new Órgiva found. Morocco = possible **winter travel base** (Ourika), not a home. Madeira = best new European option but very expensive. Turkey's Fethiye area = easy seasonal start (Kayaköy van hosts), but few families.
+
 ## Climate rule check (6 dry, snow-free months)
 
 See [`regions/climate-check.md`](regions/climate-check.md).

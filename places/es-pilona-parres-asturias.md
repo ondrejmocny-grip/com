@@ -1,6 +1,6 @@
 # Piloña – Parres – Nava (Eastern Asturias)
 
-- **Status:** lead
+- **Status:** ❌ fails "6 dry months" climate rule (see [climate check](../regions/climate-check.md)) · lead
 - **Country / region:** Spain, Asturias, "Oriente". Towns: Infiesto (Piloña), Arriondas (Parres), Nava, Cangas de Onís. Between Oviedo and the Picos de Europa.
 - **Nearest town / airport:** Infiesto / Arriondas (small towns). Oviedo and Gijón *~30–45 min*. Asturias airport *~1h (guess)*.
 - **Website / contacts:**

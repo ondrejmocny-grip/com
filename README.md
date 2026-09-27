@@ -22,6 +22,7 @@ Full details: [`us/profile.md`](us/profile.md).
 | [`us/open-questions.md`](us/open-questions.md) | Things we have not decided yet. |
 | [`regions/`](regions/) | One file per country or region (Spain, Portugal, Canary Islands, Turkey…). Laws, climate, land prices, general vibe. |
 | [`regions/legal-overview.md`](regions/legal-overview.md) | Residency, home schooling, van/yurt rules compared across countries. |
+| [`regions/climate-check.md`](regions/climate-check.md) | Which places have ~6 dry, snow-free months. |
 | [`places/`](places/) | One file per concrete project, village or community. |
 | [`visits/`](visits/) | Notes from trips and calls. What we saw, how it felt. |
 | [`decisions/log.md`](decisions/log.md) | Decisions we made and why. |

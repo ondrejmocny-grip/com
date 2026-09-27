@@ -1,6 +1,6 @@
 # Couserans: Saint-Girons, Massat and the Ariège Pyrenees
 
-- **Status:** lead
+- **Status:** ❌ fails "6 dry months" climate rule (see [climate check](../regions/climate-check.md)) · lead
 - **Country / region:** France, Occitanie, Ariège, Couserans (west Ariège, in the Pyrénées Ariégeoises Regional Natural Park). Hub town: Saint-Girons (*~6,000 people, guess*). Around it: Massat (749 people, 2023), Biert, Castillon-en-Couserans, Seix, Montbrun-Bocage, Arize valley. [Wikipedia Massat](https://en.wikipedia.org/wiki/Massat)
 - **Nearest town / airport:** Toulouse airport *~1 h 30 (guess)*. Foix *~45 min (guess)*. Sea: Mediterranean or Atlantic *~2 h 30–3 h (guess)*.
 - **Website / contacts:**

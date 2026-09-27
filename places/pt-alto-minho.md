@@ -1,6 +1,6 @@
 # Alto Minho (Arcos de Valdevez – Ponte de Lima – Paredes de Coura)
 
-- **Status:** lead
+- **Status:** ❌ fails "6 dry months" climate rule (see [climate check](../regions/climate-check.md)) · lead
 - **Country / region:** Portugal, Norte, Viana do Castelo district. Lima valley, edge of Peneda-Gerês National Park (Soajo, Sistelo, Peneda).
 - **Nearest town / airport:** Ponte de Lima, Arcos de Valdevez. Porto airport ~1h, Vigo ~1h *(guess)*. Sea at Viana do Castelo ~30–45 min *(guess)*.
 - **Website / contacts:**

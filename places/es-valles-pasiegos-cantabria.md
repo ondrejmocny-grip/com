@@ -1,6 +1,6 @@
 # Valles Pasiegos + Villaescusa (Cantabria)
 
-- **Status:** lead
+- **Status:** ❌ fails "6 dry months" climate rule (see [climate check](../regions/climate-check.md)) · lead
 - **Country / region:** Spain, Cantabria. Valles Pasiegos county (Villacarriedo, Selaya, Vega de Pas, San Roque de Riomiera, Liérganes nearby) + the school area of Villaescusa / Santa María de Cayón (Sarón), near Santander.
 - **Nearest town / airport:** Santander (hospital Valdecilla, airport) *~20–40 min (guess)*.
 - **Website / contacts:**

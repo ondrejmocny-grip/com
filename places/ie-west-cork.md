@@ -1,6 +1,6 @@
 # West Cork (Skibbereen, Ballydehob, Schull, Bantry, Clonakilty)
 
-- **Status:** ⚠️ likely fails our "6 dry months" climate rule (rain all year, guess — verify) · lead
+- **Status:** ❌ fails "6 dry months" climate rule (see [climate check](../regions/climate-check.md)) · lead
 - **Country / region:** Ireland, Co. Cork, south-west coast. Hub: **Skibbereen** (2,903 people, 2022). Villages: Ballydehob (~345), Schull, Bantry, Clonakilty, Glengarriff. [Wikipedia Skibbereen](https://en.wikipedia.org/wiki/Skibbereen), [Wikipedia Ballydehob](https://en.wikipedia.org/wiki/Ballydehob)
 - **Nearest town / airport:** Cork city + airport *~1 h 15 from Skibbereen (guess)*. Ballydehob is 13 km from Skibbereen and 13 km from Bantry.
 - **Website / contacts:** [Skibbereen Farmers Market](https://skibbereenmarket.com/m-index/), [West Cork Sudbury School](https://www.westcorksudburyschool.ie/)

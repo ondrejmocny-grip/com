@@ -56,6 +56,16 @@
 
 **Country view:** Spain/Portugal stay first. **Ireland** is the real new option (EU, legal home schooling, lots of water, English) — if Nesli accepts mild but wet winters. **France** is strong but has a hard trade-off (wet = cold and far from sea; near sea = dry). Italy, Greece, Balkans, Turkey = second choice (water, schooling or van rules). UK = blocked by visas.
 
+## Climate rule check (6 dry, snow-free months)
+
+See [`regions/climate-check.md`](regions/climate-check.md).
+
+- ✅ **Pass:** Órgiva, La Taha, Monchique (weak), Aracena, Tenerife north, La Palma NW, Kaz Dağları, Datça, Bayramiç
+- 🟡 **Borderline:** Benfeita, Penela/Lousã, Sintra, Friol, La Vera, Die, Cévennes
+- ❌ **Fail:** Alto Minho, East Asturias, Valles Pasiegos, Couserans, West Cork, East Clare
+
+**Insight:** the dry-months rule and the water rule pull against each other. Sweet spot = dry summer + mountain water (Alpujarra, Monchique, Aracena), with a plot that has its **own water source**.
+
 ## Dropped (kept for reference)
 
 | Place | Why |

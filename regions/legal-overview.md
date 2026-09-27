@@ -31,7 +31,7 @@
 
 | Country | Status | Key conditions |
 |---|---|---|
-| Portugal | ✅ Legal (*ensino doméstico*) | Enroll at a school, which names a tutor. Parent needs the education level they teach. Exams at the end of grades 4, 6 and 9. [DGE](https://www.dge.mec.pt/ensino-individual-e-ensino-domestico), [Portaria 69/2019](https://diariodarepublica.pt/dr/detalhe/portaria/69-2019-120272926) |
+| Portugal | ✅ Legal (*ensino doméstico*) | Enroll at a school, which names a tutor. Parent needs the education level they teach. ⚠️ *News articles say since 2021 the teaching parent needs at least a **bachelor's degree** — conflicting sources, verify (see [portugal.md](portugal.md)).* Exams at the end of grades 4, 6 and 9. [DGE](https://www.dge.mec.pt/ensino-individual-e-ensino-domestico), [Portaria 69/2019](https://diariodarepublica.pt/dr/detalhe/portaria/69-2019-120272926) |
 | Italy | ✅ Legal (*istruzione parentale*) | Yearly notice to the school, plus a yearly exam. [D.Lgs 62/2017 art. 23](https://www.notiziedellascuola.it/legislazione-e-dottrina/indice-cronologico/2017/aprile/DLGS_20170413_62/cap4-art23) |
 | Czechia | ✅ Legal (*individuální vzdělávání*, § 41) | Ask the school head. Teaching parent needs maturita (grades 1–5) or a degree (grades 6–9). Exams twice a year. [§ 41](https://www.pracepropravniky.cz/zakony/skolsky-zakon-uplne-zneni/paragraf-41/) |
 | Spain (incl. Canaries) | ⚠️ Grey zone | No law allows it. School is compulsory from 6 to 16. Families risk cases with social services. [HSLDA](https://hslda.org/post/spain), [Waypoint](https://guides.waypointsur.com/homeschooling-spain/) |

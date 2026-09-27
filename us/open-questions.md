@@ -14,9 +14,18 @@ Things we still need to decide together. When decided, move the answer to `profi
 - [x] Is legal home schooling a must? → No, but flag it. (Spain = grey zone, Greece/Turkey = illegal, see [legal overview](../regions/legal-overview.md))
 - [x] Wife: Czech permit? → Not needed. Use the EU family route.
 
+- [ ] Does one of us have a bachelor's degree? (may be needed for home schooling in Portugal)
+- [ ] How much own savings can we add on top of a loan?
+- [ ] Health care needs (once kids come).
+- [ ] When exactly does the Portugal trip start? Is the van ready?
+
 ## Facts to research (Claude)
 - [x] Wife's residency → done, see [legal overview](../regions/legal-overview.md) §1.
 - [x] Home schooling per country → done, §2.
 - [x] Van / yurt rules Spain & Portugal → done (general rule), §3. Needs a local check per place.
+- [ ] Portugal home schooling: is a bachelor's degree required for the parent? (conflicting sources)
+- [ ] DL 108/2026: rebuild ruins without a licence from 1 Oct 2026? Verify in Diário da República.
+- [ ] Check each shortlisted plot on the ICNF fire risk map.
+- [ ] Spain and Canary Islands research (next).
 - [ ] Czech-system schooling for Czech children abroad.
 - [ ] Alternative schools (Waldorf, free schools) in candidate regions of Spain.

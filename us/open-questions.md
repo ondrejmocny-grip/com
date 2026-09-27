@@ -11,8 +11,12 @@ Things we still need to decide together. When decided, move the answer to `profi
 - [ ] How deep a connection with locals do we want?
 - [ ] What we bring to a community (skills, project ideas).
 - [ ] Max travel time for parents (from Czechia and Turkey).
+- [ ] Is legal home schooling a must? (Spain = grey zone, Greece/Turkey = illegal, see [legal overview](../regions/legal-overview.md))
+- [ ] Wife: still apply for the Czech permit, or go directly with the EU family route?
 
 ## Facts to research (Claude)
-- [ ] Wife's residency: as spouse of an EU citizen moving to another EU country, she may get residency there directly under EU free-movement rules (Directive 2004/38/EC). The Czech permit alone does **not** give the right to live in Spain/Portugal. **To verify.** Source to check: https://europa.eu/youreurope/citizens/residence/documents-formalities/registering-residence/joining-eu-family/index_en.htm
-- [ ] Home schooling law per country (Spain, Portugal, Czechia, Turkey…). Guess: Portugal allows it; Spain is a legal grey zone. **To verify.**
-- [ ] Van living and yurt / tiny house rules per country.
+- [x] Wife's residency → done, see [legal overview](../regions/legal-overview.md) §1.
+- [x] Home schooling per country → done, §2.
+- [x] Van / yurt rules Spain & Portugal → done (general rule), §3. Needs a local check per place.
+- [ ] Czech-system schooling for Czech children abroad.
+- [ ] Alternative schools (Waldorf, free schools) in candidate regions of Spain.

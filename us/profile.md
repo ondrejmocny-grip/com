@@ -88,8 +88,10 @@
 |---|---|
 | Monthly living budget | Up to €3,000. May be lower if we take a big loan |
 | Loan limit | Max **€1,000 / month** → leaves ~€2,000 to live on |
-| Budget for land / house | Rough max loan ~€180–190k (guess: 25 years at ~4%). Plus own savings `?` |
-| Timeline | Scouting from autumn, **Portugal first**. Decide on a place **within one year** |
+| Own savings | ~300,000 CZK (*~€12k at ~25 CZK/EUR, guess*) |
+| Budget for land / house | Rough max loan ~€180–190k (*guess: 25 years at ~4%*) + savings. Note: banks usually want a 10–30% down payment, so savings may limit the loan (*guess, verify*) |
+| Timeline | First scouting trip **Portugal, ~November 2026**. Decide on a place **within one year** |
+| Education | At least one of us has a **bachelor's degree** (covers Portugal home schooling rule, if it applies) |
 | Language | Learn a little Spanish and Portuguese. Pick one after the first trip |
 | Full year or part of the year | ~6 months home, ~6 months travel |
 | Distance to airport / city | Not critical |

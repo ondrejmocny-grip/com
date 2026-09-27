@@ -4,6 +4,14 @@ Newest on top. One entry per decision.
 
 ---
 
+## 2026-09-27 — After Portugal research
+- **Decision:** Wildfire risk stays a flag, not a deal-breaker.
+- **Facts:** One of us has a bachelor's degree. Savings ~300k CZK. Portugal trip ~November 2026.
+- **Next:** Research Spain and Canary Islands.
+- **Who:** Ondrej.
+
+---
+
 ## 2026-09-27 — Shared understanding confirmed
 - **Decision:** Grilling done. Profile v4 and criteria v4 confirmed as our base.
 - **Next:** Research Portugal first, then Spain and Canary Islands.

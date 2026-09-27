@@ -15,7 +15,7 @@
 
 - ⚠️ Home schooling legal status (Spain/Canaries = grey zone, Greece/Turkey = illegal). See [legal overview](../regions/legal-overview.md).
 
-- ⚠️ Wildfire risk.
+- ⚠️ Wildfire risk. (Confirmed as flag, not deal-breaker.)
 - ⚠️ Strong expat bubble (few locals).
 - ⚠️ Mass tourism nearby.
 

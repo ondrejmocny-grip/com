@@ -14,10 +14,11 @@ Things we still need to decide together. When decided, move the answer to `profi
 - [x] Is legal home schooling a must? → No, but flag it. (Spain = grey zone, Greece/Turkey = illegal, see [legal overview](../regions/legal-overview.md))
 - [x] Wife: Czech permit? → Not needed. Use the EU family route.
 
-- [ ] Does one of us have a bachelor's degree? (may be needed for home schooling in Portugal)
-- [ ] How much own savings can we add on top of a loan?
+- [x] Does one of us have a bachelor's degree? → Yes.
+- [x] How much own savings can we add on top of a loan? → ~300,000 CZK (~€12k).
 - [ ] Health care needs (once kids come).
-- [ ] When exactly does the Portugal trip start? Is the van ready?
+- [x] When does the Portugal trip start? → Probably around November 2026.
+- [ ] Is the van ready?
 
 ## Facts to research (Claude)
 - [x] Wife's residency → done, see [legal overview](../regions/legal-overview.md) §1.
@@ -26,6 +27,6 @@ Things we still need to decide together. When decided, move the answer to `profi
 - [ ] Portugal home schooling: is a bachelor's degree required for the parent? (conflicting sources)
 - [ ] DL 108/2026: rebuild ruins without a licence from 1 Oct 2026? Verify in Diário da República.
 - [ ] Check each shortlisted plot on the ICNF fire risk map.
-- [ ] Spain and Canary Islands research (next).
+- [ ] Spain and Canary Islands research (in progress).
 - [ ] Czech-system schooling for Czech children abroad.
 - [ ] Alternative schools (Waldorf, free schools) in candidate regions of Spain.

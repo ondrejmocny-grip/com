@@ -35,18 +35,21 @@
 ## Score
 Use [`../us/criteria.md`](../us/criteria.md).
 
-| # | Criterion | Score (1–5) |
-|---|---|---|
-| 1 | People | |
-| 2 | Openness | |
-| 3 | Land | |
-| 4 | Traditions | |
-| 5 | Contribute | |
-| 6 | Housing path | |
-| 7 | Costs | |
-| 8 | Climate | |
-| 9 | Access | |
-| 10 | Residency | |
+| # | Criterion | Weight | Score (1–5) |
+|---|---|---|---|
+| 1 | People: spiritual + grounded | 3 | |
+| 2 | Active projects to join | 3 | |
+| 3 | Integration with locals | 2 | |
+| 4 | Water security | 3 | |
+| 5 | Mountains + sea | 2 | |
+| 6 | Families, schooling | 3 | |
+| 7 | Lease / join; housing path legal | 2 | |
+| 8 | Land / lease prices | 2 | |
+| 9 | Access | 1 | |
+| 10 | Language & residency | 1 | |
+| 11 | Local traditions | 1 | |
+| 12 | Climate | 2 | |
+| | **Total (max 125)** | | |
 
 ## Feelings
 Ondrej: 

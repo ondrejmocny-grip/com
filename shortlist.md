@@ -31,6 +31,31 @@
 | 21 | [Genal / Gaucín](places/es-genal-gaucin.md) | ES south | 72 | Sea view, mild | No scene found, British bubble |
 | 22 | [Valle Gran Rey](places/ic-gomera-valle-gran-rey.md) | Canaries | 65 | Hub to visit only | 💧 · tourism |
 
+## Órgiva-like hubs across Europe (broader search, 2026-09-27)
+
+> Pattern: [`us/orgiva-pattern.md`](us/orgiva-pattern.md). Points = how many of the 8 Órgiva features a place has (6+ counts).
+
+| Place | Country | Órgiva points | Score | Main risk |
+|---|---|---|---|---|
+| [Órgiva](places/es-orgiva-alpujarra.md) (model) | ES | 8/8 | 96 | 💧 · hot summers · bubble · 🏫 |
+| [La Taha (Pitres, Ferreirola)](places/es-la-taha-alpujarra.md) — satellite of Órgiva | ES | 6/8 | 97 | ❄️ Snowy winters, tiny villages · 🏫 |
+| [West Cork (Skibbereen)](places/ie-west-cork.md) | IE | 7/8 | 93 | 🌧️ Rain & grey winters · caravan needs permission |
+| [Couserans (Saint-Girons, Massat)](places/fr-couserans-saint-girons.md) | FR | 7/8 | 91 | ❄️ Cold wet winters · sea 2.5 h+ · French needed |
+| [East Clare (Scarriff)](places/ie-east-clare.md) | IE | 5/8 | 91 | 🌧️ Wet · sea ~1 h · few projects found |
+| [Die / Diois](places/fr-die-diois.md) | FR | 7/8 | 87 | 💧 Summer limits · sea 2.5–3 h |
+| [Machynlleth / Dyfi](places/uk-dyfi-machynlleth.md) | UK | 7/8 | 85 | ⛔ No UK visa route |
+| [Southern Cévennes](places/fr-cevennes-saint-jean-du-gard.md) | FR | 8/8 | 84 | 💧 Water cuts Aug 2026 · 🔥 |
+| [Totnes](places/uk-totnes.md) | UK | 6/8 | 82 | ⛔ No UK visa route · 💶 |
+| [Kaz Dağları south (Küçükkuyu, Adatepe)](places/tr-kazdaglari-kucukkuyu.md) | TR | 7/8 | 80 | 💧 Dam ~11% · home schooling illegal · 💶 |
+| [Fethiye / Kabak](places/tr-fethiye-kabak-faralya.md) | TR | 6/8 | 77 | Seasonal scene · 🔥 · tourism |
+| [Upper Aude (Espéraza)](places/fr-haute-vallee-aude-esperaza.md) | FR | 6/8 | 75 | No alt school · 🔥 |
+
+**Weaker (below 6/8), for reference:** [Monte Amiata](places/it-amiata-arcidosso.md) (IT, 4/8, 82) · [Vipava](places/si-vipava-valley.md) (SI, 4/8, 82) · [Pelion](places/gr-pelion.md) (GR, 4/8, 80) · [Istria](places/hr-istria-interior.md) (HR, 4/8, 77) · [Lunigiana](places/it-lunigiana.md) (IT, 3/8, 76) · [Etna north](places/it-etna-north.md) (IT, 2/8, 75) · [Idanha-a-Nova](places/pt-idanha-a-nova.md) (PT, 5/8, 74) · [Castelo de Vide](places/pt-castelo-de-vide-marvao.md) (PT, 4/8, 66)
+
+**Dropped for water:** [Crete Apokoronas](places/gr-crete-apokoronas.md) · [Conflent / Prades](places/fr-conflent-prades.md) · [West Liguria](places/it-ponente-ligure-val-nervia.md) · [Datça](places/tr-datca.md) · [Seferihisar / Urla](places/tr-seferihisar-urla.md)
+
+**Country view:** Spain/Portugal stay first. **Ireland** is the real new option (EU, legal home schooling, lots of water, English) — if the wife accepts mild but wet winters. **France** is strong but has a hard trade-off (wet = cold and far from sea; near sea = dry). Italy, Greece, Balkans, Turkey = second choice (water, schooling or van rules). UK = blocked by visas.
+
 ## Dropped (kept for reference)
 
 | Place | Why |

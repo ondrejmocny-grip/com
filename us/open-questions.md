@@ -17,6 +17,9 @@ Things we still need to decide together. When decided, move the answer to `profi
 - [x] Does one of us have a bachelor's degree? → Yes.
 - [x] How much own savings can we add on top of a loan? → ~300,000 CZK (~€12k).
 - [ ] Health care needs (once kids come).
+- [ ] Wife: does "mild but wet and grey" (Ireland, Asturias, Galicia) count as "cold" for her?
+- [ ] Wife: are snowy but sunny mountain winters (La Taha, Couserans) OK if we travel in winter?
+- [ ] Is French an option for us (France = strong scene, but French needed)?
 - [x] When does the Portugal trip start? → Probably around November 2026.
 - [ ] Is the van ready?
 

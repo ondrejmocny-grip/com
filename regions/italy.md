@@ -44,3 +44,10 @@
 
 ## Sources
 - See links above.
+
+## Update 2026-09-27 (gap research)
+- **Neo-rural family cluster, Alto Vastese (Abruzzo):** ~30–60 families (Italian + foreign), off-grid, home schooling. Shows home schooling is legal but watched by social services. [Open 2025-11-23](https://www.open.online/2025/11/23/neorurali-boschi-abruzzo-tribu-genitori-figli-birmingham-trevallion/)
+- **Sardinia water:** dams 94.7% full on 28 Feb 2026 ("normal"). [Autorità di Bacino](https://autoritadibacino.regione.sardegna.it/invasi/) · Police cleared a hippie camp in Valle della Luna, Sept 2023. [Il Post](https://www.ilpost.it/2023/09/08/sgombero-hippy-valle-della-luna-sardegna/)
+- **Calabria water:** national water emergency 27 Sept 2024; a bit better in 2026. [Corriere della Calabria](https://www.corrieredellacalabria.it/2026/04/16/calabria-2025-siccita-caldo-anomalo-piogge-2026-allarme-climatico/)
+- **Abruzzo (Vastese) water:** supply on rotation all year in 2026. [Chiaro Quotidiano](https://chiaroquotidiano.it/2026/04/06/guasti-e-turnazioni-12-mesi-lanno-nel-vastese-lemergenza-acqua-non-finisce-mai/)
+- Checked, too weak for a file: Cilento, Calabria, Marche/Sibillini. Not checked: Garfagnana, Umbria, Madonie/Nebrodi.

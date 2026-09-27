@@ -62,3 +62,7 @@
 - https://www.reussir.fr/quel-prix-des-terres-agricoles-2025-par-departement
 - https://fr.wikipedia.org/wiki/Incendie_du_massif_des_Corbi%C3%A8res_de_2025
 - https://cqfd-journal.org/Cevennes-tiens-voila-du-bidasse
+
+## Update 2026-09-27 (gap research)
+- **South-east water limits 2026:** Alpes-Maritimes 100 towns (13 Aug) [Préfecture 06](https://www.alpes-maritimes.gouv.fr/Actualites/Espace-Presse/2026/AOUT/Secheresse-dans-les-Alpes-Maritimes) · Var 102 towns [presseagence](https://presseagence.fr/toulon-secheresse-15-nouvelles-communes-du-var-en-alerte-102-au-total-concernees-par-des-restrictions/) · Haute-Corse drought watch 2 July 2026 [Pietra di Verde](https://pietradiverde.corsica/2026/07/06/la-haute-corse-en-vigilance-secheresse-2/)
+- Checked, too weak for a file: Balagne & Castagniccia (Corsica), Pays Basque interior (Bihotza alternative school in Orègue; *wet summers, likely fails climate rule*), Brittany (fails climate rule).

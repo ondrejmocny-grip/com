@@ -14,6 +14,7 @@
 | [Tenerife north](../places/ic-tenerife-north-tegueste.md) | Apr–Sep | 6, 4, 3, 2, 1, 3 days; 38–7 mm | No | ✅ Pass | [La Laguna](https://en.wikipedia.org/wiki/San_Cristóbal_de_La_Laguna#Climate) |
 | [La Palma NW](../places/ic-lapalma-northwest.md) | Apr–Sep | ~1–6 days; 4–16 mm | No | ✅ Pass | [w&c](https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,puntagorda-es,Spain) |
 | [Kaz Dağları south](../places/tr-kazdaglari-kucukkuyu.md) | May–Oct | 1–5 days; 35, 24, 6, 5, 27, 70 mm | Coast rare | ✅ Pass | [Edremit](https://en.wikipedia.org/wiki/Edremit,_Balıkesir#Climate) |
+| [Kaş](../places/tr-kas.md) | Apr–Sep | Kaş station (NOAA 1991–2020); Jan low 9 °C; Jul–Aug 33 °C | No (coast); highlands snowy | ✅ Pass | see place file |
 | [Datça](../places/tr-datca.md) | Apr–Sep / May–Oct | 1–3.5 days; 18, 1, 0, 0, 8, 54 mm | No | ✅ Pass (driest of all → 💧) | [Datça](https://en.wikipedia.org/wiki/Datça#Climate) |
 | [Bayramiç](../places/bayramic-canakkale.md) | May–Oct | 1–6.5 days; 32, 27, 13, 7, 24, 68 mm | 1–2 days/month Dec–Mar | ✅ Pass | [Çanakkale](https://en.wikipedia.org/wiki/Çanakkale#Climate) |
 | [Benfeita / Arganil](../places/pt-benfeita-arganil.md) | Jun–Sep | 93, 36, 15, 20, 63, 140 mm (May–Oct) | Peaks only | 🟡 Borderline | [w&c](https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,arganil-centro-region-pt,Portugal), [Coimbra](https://en.wikipedia.org/wiki/Coimbra#Climate) |

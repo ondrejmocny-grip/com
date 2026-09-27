@@ -78,6 +78,7 @@
 | [Essaouira hinterland](places/ma-essaouira-hinterland.md) | MA | 6/8 | 77 | 💧 Salty, sinking groundwater |
 | [Alta Gallura, Sardinia](places/it-gallura-tempio.md) | IT | 3/8 | 73 | 💧 One dam, 🔥 |
 | [Var hinterland](places/fr-provence-verte-correns.md) | FR | 3/8 | 71 | 💧 Summer limits, 🔥, 💶 |
+| [Kaş + hinterland (Çukurbağ, Kasaba, Gömbe)](places/tr-kas.md) | TR | 7/8 | 76 | 🔥 2026 fires, old water pipes, coastal villa bubble, no alt school, hot summers |
 | [Kayaköy](places/tr-kayakoy.md) | TR | 6/8 | 71 | Few families, protected site, hot summers |
 | [Chefchaouen / Rif](places/ma-chefchaouen-rif.md) | MA | 4/8 | 70 | No newcomer scene, 🔥 |
 | [Alınca / Karaağaç](places/tr-alinca-karaagac.md) | TR | 3/8 | 70 | Not a hub, 🔥 · best views, cooler, cheaper |

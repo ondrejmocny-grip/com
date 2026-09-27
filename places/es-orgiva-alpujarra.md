@@ -1,6 +1,6 @@
 # Órgiva and the western Alpujarra (Sierra Nevada)
 
-- **Status:** lead
+- **Status:** ⭐ interesting (Ondrej: liked the concept) · lead
 - **Country / region:** Spain, Andalusia, Granada province, Alpujarra Granadina. Hub town: Órgiva (~7,000 people, ~450 m). Nearby villages higher up: Soportújar, Cáñar, Carataunas, Bayacas, Pampaneira, Bubión, Capileira, Lanjarón.
 - **Nearest town / airport:** Motril beach ~40 min. Granada city ~1 h. Airports: Granada (~1 h 15, *guess*), Málaga (~1 h 30, *guess*). [Euro Weekly News, 2025-12-01](https://euroweeklynews.com/2025/12/01/tiny-spanish-mountain-village-where-a-third-of-its-population-are-expats/)
 - **Website / contacts:**

@@ -2,13 +2,25 @@
 
 > Updated: 2026-09-27. Scores are **Claude's first guesses** from web research (max 125). Nothing is visited yet.
 > Weights: [`us/criteria.md`](us/criteria.md). Details: see each place file.
-> 💧 = water risk (our deal-breaker — only land with own spring / legal well / water rights) · 🔥 = fire · 🏫 = home schooling grey zone (Spain)
+> ⭐ = interesting to Ondrej / Nesli · 💧 = water risk (our deal-breaker — only land with own spring / legal well / water rights) · 🔥 = fire · 🏫 = home schooling grey zone (Spain)
+
+## ⭐ Interesting to us
+
+| Place | Country | Why |
+|---|---|---|
+| ⭐ [Órgiva](places/es-orgiva-alpujarra.md) | ES | liked the concept |
+| ⭐ [Aljezur](places/pt-aljezur-costa-vicentina.md) | PT | liked the first look |
+| ⭐ [Couserans (Saint-Girons, Massat)](places/fr-couserans-saint-girons.md) | FR | seems interesting |
+| ⭐ [Datça](places/tr-datca.md) | TR | we are here now; 💧 flag |
+| ⭐ [Kayaköy](places/tr-kayakoy.md) | TR | asked to research |
+| ⭐ [Alınca / Karaağaç](places/tr-alinca-karaagac.md) | TR | asked to research |
+| ⭐ [Bayramiç / Çanakkale](places/bayramic-canakkale.md) | TR | our first example / benchmark |
 
 ## All leads, ranked
 
 | Rank | Place | Country | Score | Why | Main risk |
 |---|---|---|---|---|---|
-| 1 | [Órgiva, western Alpujarra](places/es-orgiva-alpujarra.md) | ES south | 96 | Biggest alternative hub in mainland Spain, many projects, Waldorf school, beach 40 min | 💧 Snow-fed water, dry years 2019, 2022–24 · hot summers · bubble · 🏫 |
+| 1 | ⭐ [Órgiva, western Alpujarra](places/es-orgiva-alpujarra.md) | ES south | 96 | Biggest alternative hub in mainland Spain, many projects, Waldorf school, beach 40 min | 💧 Snow-fed water, dry years 2019, 2022–24 · hot summers · bubble · 🏫 |
 | 2 | [Benfeita valley, Serra do Açor](places/pt-benfeita-arganil.md) | PT centre | 94 | ~200 newcomers, ~70 kids, learning community, no guru | 🔥 Fires 2017 and 2025 |
 | 3 | [East Asturias (Infiesto / Arriondas / Nava)](places/es-pilona-parres-asturias.md) | ES north | 92 | Sea 25 min, Picos de Europa, lots of water, settler program | Small scene, schools far, grey winters · 🏫 |
 | 4 | [Sintra / Janas](places/pt-sintra-janas.md) | PT Lisbon | 90 | Best water, Waldorf school, mild | 💶 Very expensive, tourism |
@@ -19,7 +31,7 @@
 | 9 | [Valles Pasiegos](places/es-valles-pasiegos-cantabria.md) | ES north | 88 | State-recognised Waldorf school, very green | Almost no spiritual scene · 🏫 |
 | 10 | [Tenerife north (Tegueste)](places/ic-tenerife-north-tegueste.md) | Canaries | 88 | Most alternative schools on the islands, perfect climate | 💧 Island water emergency 2024–26 · 💶 · 🔥 2023 |
 | 11 | [Friol / Lugo](places/es-friol-lugo.md) | ES north | 87 | Big Waldorf school (1/3 international), cheap land | Mountains/sea ~1 h · 🔥 2025 · 🏫 |
-| 12 | [Aljezur](places/pt-aljezur-costa-vicentina.md) | PT south | 86 | Hub for Monchique · ❤️ Ondrej liked first look | Expat & surf bubble |
+| 12 | ⭐ [Aljezur](places/pt-aljezur-costa-vicentina.md) | PT south | 86 | Hub for Monchique | Expat & surf bubble |
 | 13 | [São Luís / Odemira](places/pt-sao-luis-odemira.md) | PT south | 85 | Most projects in PT | 💧💧 Weakest water |
 | 14 | [Alto Minho](places/pt-alto-minho.md) | PT north | 84 | Best water, traditions | Weak scene |
 | 15 | [La Palma northwest](places/ic-lapalma-northwest.md) | Canaries | 84 | Most natural water on islands, green, permaculture | 🔥 2023 · volcano · few schools |
@@ -37,10 +49,10 @@
 
 | Place | Country | Órgiva points | Score | Main risk |
 |---|---|---|---|---|
-| [Órgiva](places/es-orgiva-alpujarra.md) (model) | ES | 8/8 | 96 | 💧 · hot summers · bubble · 🏫 |
+| ⭐ [Órgiva](places/es-orgiva-alpujarra.md) (model) | ES | 8/8 | 96 | 💧 · hot summers · bubble · 🏫 |
 | [La Taha (Pitres, Ferreirola)](places/es-la-taha-alpujarra.md) — satellite of Órgiva | ES | 6/8 | 97 | ❄️ Snowy winters, tiny villages · 🏫 |
 | [West Cork (Skibbereen)](places/ie-west-cork.md) | IE | 7/8 | 93 | 🌧️ Rain & grey winters · caravan needs permission |
-| [Couserans (Saint-Girons, Massat)](places/fr-couserans-saint-girons.md) | FR | 7/8 | 91 | ❄️ Cold wet winters · sea 2.5 h+ · French needed |
+| ⭐ [Couserans (Saint-Girons, Massat)](places/fr-couserans-saint-girons.md) | FR | 7/8 | 91 | ❄️ Cold wet winters · sea 2.5 h+ · French needed |
 | [East Clare (Scarriff)](places/ie-east-clare.md) | IE | 5/8 | 91 | 🌧️ Wet · sea ~1 h · few projects found |
 | [Die / Diois](places/fr-die-diois.md) | FR | 7/8 | 87 | 💧 Summer limits · sea 2.5–3 h |
 | [Machynlleth / Dyfi](places/uk-dyfi-machynlleth.md) | UK | 7/8 | 85 | ⛔ No UK visa route |
@@ -52,7 +64,7 @@
 
 **Weaker (below 6/8), for reference:** [Monte Amiata](places/it-amiata-arcidosso.md) (IT, 4/8, 82) · [Vipava](places/si-vipava-valley.md) (SI, 4/8, 82) · [Pelion](places/gr-pelion.md) (GR, 4/8, 80) · [Istria](places/hr-istria-interior.md) (HR, 4/8, 77) · [Lunigiana](places/it-lunigiana.md) (IT, 3/8, 76) · [Etna north](places/it-etna-north.md) (IT, 2/8, 75) · [Idanha-a-Nova](places/pt-idanha-a-nova.md) (PT, 5/8, 74) · [Castelo de Vide](places/pt-castelo-de-vide-marvao.md) (PT, 4/8, 66)
 
-**Back on the list, 💧 flagged:** [Datça](places/tr-datca.md) (TR, 6/8, 69) — we are there now; best villages Hızırşah, Kızlan; idea: winter home (Oct–Apr), travel in summer.
+**Back on the list, 💧 flagged:** ⭐ [Datça](places/tr-datca.md) (TR, 6/8, 69) — we are there now; best villages Hızırşah, Kızlan; idea: winter home (Oct–Apr), travel in summer.
 
 **Dropped for water:** [Crete Apokoronas](places/gr-crete-apokoronas.md) · [Conflent / Prades](places/fr-conflent-prades.md) · [West Liguria](places/it-ponente-ligure-val-nervia.md) · [Seferihisar / Urla](places/tr-seferihisar-urla.md)
 
@@ -69,9 +81,9 @@
 | [Essaouira hinterland](places/ma-essaouira-hinterland.md) | MA | 6/8 | 77 | 💧 Salty, sinking groundwater |
 | [Alta Gallura, Sardinia](places/it-gallura-tempio.md) | IT | 3/8 | 73 | 💧 One dam, 🔥 |
 | [Var hinterland](places/fr-provence-verte-correns.md) | FR | 3/8 | 71 | 💧 Summer limits, 🔥, 💶 |
-| [Kayaköy](places/tr-kayakoy.md) | TR | 6/8 | 71 | Few families, protected site, hot summers |
+| ⭐ [Kayaköy](places/tr-kayakoy.md) | TR | 6/8 | 71 | Few families, protected site, hot summers |
 | [Chefchaouen / Rif](places/ma-chefchaouen-rif.md) | MA | 4/8 | 70 | No newcomer scene, 🔥 |
-| [Alınca / Karaağaç](places/tr-alinca-karaagac.md) | TR | 3/8 | 70 | Not a hub, 🔥 · best views, cooler, cheaper |
+| ⭐ [Alınca / Karaağaç](places/tr-alinca-karaagac.md) | TR | 3/8 | 70 | Not a hub, 🔥 · best views, cooler, cheaper |
 | [Roya valley](places/fr-roya-breil-saorge.md) | FR | 3/8 | 69 | 💧 Limits, floods |
 
 **Dropped:** [Mallorca Tramuntana](places/es-mallorca-tramuntana.md) (💧💶) · [Ibiza north](places/es-ibiza-north.md) (💧💶) · [Cyprus Troodos](places/cy-troodos.md) (💧 worst drought in 100 years) · [Alto Vastese](places/it-alto-vastese-palmoli.md) (💧)
@@ -102,7 +114,7 @@ See [`regions/climate-check.md`](regions/climate-check.md).
 
 | Place | Country | Status |
 |---|---|---|
-| [Bayramiç / Çanakkale](places/bayramic-canakkale.md) | Turkey | researching (benchmark) |
+| ⭐ [Bayramiç / Çanakkale](places/bayramic-canakkale.md) | Turkey | researching (benchmark) |
 
 ## Claude's view across countries
 

@@ -1,6 +1,6 @@
 # Aljezur / Costa Vicentina (Rogil, Odeceixe, Bordeira)
 
-- **Status:** lead — ❤️ Ondrej liked the first look (2026-09-27). Open points checked 2026-09-27 (deep check, see below).
+- **Status:** ⭐ interesting (Ondrej: liked the first look, 2026-09-27) · lead. Open points checked 2026-09-27 (deep check, see below).
 - **Country / region:** Portugal, west Algarve (Faro district), Aljezur municipality, inside the SW Alentejo & Costa Vicentina Natural Park
 - **Nearest town / airport:** Aljezur. Lagos ~30 min. Faro airport ~1 h 15 *(guess)*. Monchique ~30–40 min.
 - **Website / contacts:** various projects (see People). Local info: https://aljezur.life

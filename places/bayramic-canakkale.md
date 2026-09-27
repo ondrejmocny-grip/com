@@ -1,6 +1,6 @@
 # Bayramiç / Çanakkale (Turkey)
 
-- **Status:** researching — our **benchmark**
+- **Status:** ⭐ interesting (Ondrej: our first example / benchmark) · researching — our **benchmark**
 - **Country / region:** Turkey, Çanakkale province, near Kaz Dağları (Mount Ida)
 - **Nearest town / airport:** `?`
 - **Website / contacts:** `?`

@@ -18,7 +18,7 @@
 | Work – Ondrej | Remote job |
 | Work – Nesli | Small, seasonal work only: farming, healing work, food |
 | Nesli's experience | Chef, gardening, yoga & pilates, veterinary work |
-| Where we are now | Turkey → then Czechia → then first scouting in Portugal |
+| Where we are now | **Datça, Turkey** (Sept 2026) → then Czechia → then first scouting in Portugal |
 
 ## What we are looking for
 
@@ -71,6 +71,7 @@
 - **Mountains:** we want mountains in view, or at least close by.
 - **Sea and mountains both nearby** (Nesli prefers both).
 - **Climate:** mild. Ondrej: heat OK, cold worse. Nesli: **no cold and no strong heat**.
+- **Wet / snowy winters are OK only if there are ~6 dry, snow-free months** each year. We live there in the good 6 months and travel the other 6.
 - Green or dry landscape: both possible (if water is OK).
 - Rhythm: **6 months in one place and 6 months travel** each year. Which season is home: no preference.
 
@@ -92,7 +93,7 @@
 | Budget for land / house | Rough max loan ~€180–190k (*guess: 25 years at ~4%*) + savings. Note: banks usually want a 10–30% down payment, so savings may limit the loan (*guess, verify*) |
 | Timeline | First scouting trip **Portugal, ~November 2026**. Decide on a place **within one year** |
 | Education | At least one of us has a **bachelor's degree** (covers Portugal home schooling rule, if it applies) |
-| Language | Learn a little Spanish and Portuguese. Pick one after the first trip |
+| Language | Learn a little Spanish and Portuguese. Pick one after the first trip. French is possible, but **not quickly** (France = longer-term option) |
 | Full year or part of the year | ~6 months home, ~6 months travel |
 | Distance to airport / city | Not critical |
 | Health care needs | `?` (important with kids planned) |

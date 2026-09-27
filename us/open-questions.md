@@ -17,9 +17,8 @@ Things we still need to decide together. When decided, move the answer to `profi
 - [x] Does one of us have a bachelor's degree? → Yes.
 - [x] How much own savings can we add on top of a loan? → ~300,000 CZK (~€12k).
 - [ ] Health care needs (once kids come).
-- [ ] Nesli: does "mild but wet and grey" (Ireland, Asturias, Galicia) count as "cold" for her?
-- [ ] Nesli: are snowy but sunny mountain winters (La Taha, Couserans) OK if we travel in winter?
-- [ ] Is French an option for us (France = strong scene, but French needed)?
+- [x] Wet / grey / snowy winters? → OK only if there are ~6 dry, snow-free months.
+- [x] French? → Possible, but not quickly. France = longer-term option.
 - [x] When does the Portugal trip start? → Probably around November 2026.
 - [ ] Is the van ready?
 
@@ -33,6 +32,8 @@ Things we still need to decide together. When decided, move the answer to `profi
 - [x] Spain and Canary Islands research → done (2026-09-27).
 - [ ] Órgiva: which land has secure water rights (acequia / spring)?
 - [ ] El Calabacino (Aracena): legal status today?
+- [ ] Per place: does it have ~6 dry, snow-free months? (Ireland likely fails — rain all year)
+- [ ] Datça: deeper research + on-site water check (we are there now).
 - [ ] Canaries: can a licensed rural tourism house still work under Ley 6/2025?
 - [ ] Czech-system schooling for Czech children abroad.
 - [ ] Alternative schools (Waldorf, free schools) in candidate regions of Spain.

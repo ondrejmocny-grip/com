@@ -1,6 +1,6 @@
 # East Clare (Scarriff, Tuamgraney, Mountshannon, Feakle)
 
-- **Status:** lead
+- **Status:** ⚠️ likely fails our "6 dry months" climate rule (rain all year, guess — verify) · lead
 - **Country / region:** Ireland, Co. Clare, west shore of Lough Derg. Hub: **Scarriff** (small market town on a hill). Villages: Tuamgraney, Mountshannon, Feakle. [Discover Ireland](https://www.discoverireland.ie/scarriff), [Wikipedia](https://en.wikipedia.org/wiki/Scarriff)
 - **Nearest town / airport:** Ennis / Limerick *~40–50 min (guess)*. Shannon airport *~45 min (guess)*. Atlantic coast (Clare) *~1 h–1 h 15 (guess)*.
 - **Website / contacts:** [Raheen Wood school](https://raheenwood.org/), [ALFA secondary](https://alfasteinersecondary.org/our-school/about-our-school), [East Clare Community Co-op](https://www.facebook.com/eastclarecommunitycoop/)

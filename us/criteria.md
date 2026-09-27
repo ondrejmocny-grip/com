@@ -1,6 +1,6 @@
 # How We Score a Place
 
-> Status: **draft v3** (2026-09-27). Weights are a first guess by Claude. Change them together.
+> Status: **draft v4** (2026-09-27). Weights are a first guess by Claude. Change them together.
 
 ## Deal-breakers (any one = drop)
 
@@ -9,10 +9,15 @@
 - No real contact with local people.
 - Drought, dryness or water shortage.
 - No mountains in view or close by.
+- Very small, dying village with no services.
 
 ## Flags (not deal-breakers, always note them)
 
 - ⚠️ Home schooling legal status (Spain/Canaries = grey zone, Greece/Turkey = illegal). See [legal overview](../regions/legal-overview.md).
+
+- ⚠️ Wildfire risk.
+- ⚠️ Strong expat bubble (few locals).
+- ⚠️ Mass tourism nearby.
 
 ## Must-haves
 

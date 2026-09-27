@@ -26,6 +26,8 @@
 ## Legal flags
 - Home schooling: ✅ / ⚠️ / ❌
 - Van / yurt on land: 
+- Wildfire risk: 
+- Expat bubble / mass tourism: 
 
 ## Costs
 - Land prices, rent, fees.

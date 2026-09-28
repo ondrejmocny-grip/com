@@ -37,8 +37,9 @@
 | 18 | [Seia / Serra da Estrela](places/pt-seia-serra-da-estrela.md) | PT centre | 81 | Volunteering | ❄️ · far from sea |
 | 19 | [La Gomera north](places/ic-gomera-north-hermigua-agulo.md) | Canaries | 80 | Living village traditions | No alt school, few families |
 | 20 | [Loural, Góis](places/pt-loural-gois.md) | PT centre | 77 | Licensed site, van start | ⚠️ May be intentional community |
-| 21 | [Genal / Gaucín](places/es-genal-gaucin.md) | ES south | 72 | Sea view, mild | No scene found, British bubble |
-| 22 | [Valle Gran Rey](places/ic-gomera-valle-gran-rey.md) | Canaries | 65 | Hub to visit only | 💧 · tourism |
+| 21 | [Traditional Dream Factory, Abela](places/pt-traditional-dream-factory-abela.md) | PT south | 71 | Volunteer + van spot, learn land/water/co-living | One campus, 1–2 families, €402k debt, founder-dependent, heat · token model |
+| 22 | [Genal / Gaucín](places/es-genal-gaucin.md) | ES south | 72 | Sea view, mild | No scene found, British bubble |
+| 23 | [Valle Gran Rey](places/ic-gomera-valle-gran-rey.md) | Canaries | 65 | Hub to visit only | 💧 · tourism |
 
 ## Órgiva-like hubs across Europe (broader search, 2026-09-27)
 

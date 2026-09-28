@@ -1,3 +1,5 @@
+Deep dive: see [main file](../../places/pt-traditional-dream-factory-abela.md)
+
 # Traditional Dream Factory (TDF) — Abela, Alentejo (Portugal)
 
 - **Status:** lead (weak) — existing co-living campus; **co-housing (23 homes) planned**, permits in 2026
@@ -7,9 +9,9 @@
 - Note: this is the "Regenerative Campus… ~1h30 from Lisbon" named in the model file (S32). [eco-villages.eu, 2025-10-06](https://eco-villages.eu/en/2025/10/06/gain-lifetime-access-to-portugals-first-regenerative-village/)
 
 ## In short
-- 25 ha former chicken farm, bought 2021. Now a **web3 co-living village**: glamping, co-working, kitchen, sauna, event venue, gardens, chickens.
-- You buy **$TDF tokens** (1 token = 1 night per year, forever; 1 token = 1 vote). 30 tokens = "citizen". No one owns the land.
-- A **23-home co-housing** part is planned. No school, few families found. Hot, dry summers.
+- 25 ha former chicken farm; the founder bought the buildings in 2021 *(corrected 2026-09-28)*. Now a **web3 co-living village**: glamping, co-working, kitchen, sauna, event venue, gardens, chickens.
+- You buy **$TDF tokens** (1 token = 1 night per year, forever; 1 token = 1 vote). 30 tokens = "citizen". Token holders own nothing; assets go to a company controlled by OASA *(corrected 2026-09-28, see below)*.
+- A **23-home co-housing** part is planned. No own school, 1–2 families. Hot, dry summers.
 
 ## Ecovilla pattern
 
@@ -58,6 +60,17 @@
 
 ## Not scored FYI
 - Water: ⚠️ dry Alentejo, water-retention work ongoing. Climate: hot dry summers, mild rainy winters (5–15°C).
+
+## Corrections (2026-09-28, after deep dive)
+- "No one owns the land" → **wrong.** The buildings were in founder **Sam Delesque's own name** (bought 2021 with his savings). The company **Enseada Sonhadora S.A.** has an option to buy them; the €253,800 for this was raised by 2026-07-28, transfer planned Sept 2026. Part of the land is still "to acquire". [Substack 2026-07-21](https://traditionaldreamfactory.substack.com/p/record-heat-continued-purpose), [Substack 2026-07-28](https://traditionaldreamfactory.substack.com/p/we-did-it)
+- Token price €256 → **€262.25** (2026-07-21). 290–300 holders, 60 citizens.
+- Vouches: website says 3; booking system config says **6 + space host**. [config](https://api.traditionaldreamfactory.com/config)
+- "10 glamping units, 6 van spots" → booking system lists **18 glamping tents + yurt + tree house, 9 van spots**. [listings](https://api.traditionaldreamfactory.com/listing)
+- "Price not seen" → prices found: van €20/night, glamping €30–50/night, -50% monthly; volunteers €14 food + €4 utilities per day. [listings](https://api.traditionaldreamfactory.com/listing), [food](https://api.traditionaldreamfactory.com/food)
+- "No school" → no **own** school (E4 stays ❌), but **Abela village has a public primary school and kindergarten**. [Mapa Social](https://www.mapasocial.pt/pt/jardim-de-infancia-de-abela-santiago-do-cacem/I2765)
+- "Relation with locals not documented" → some links: Abela Community Market at TDF (2025), local food suppliers. [2025 report](https://www.traditionaldreamfactory.com/pdf/2025-TDF-report.pdf)
+- Co-housing: PIP (prior approval) granted March 2026; price model "construction cost + 30%", use-rights not ownership. [Substack 2026-03-31](https://traditionaldreamfactory.substack.com/p/harmonising-the-sheep), [Substack 2026-03-03](https://traditionaldreamfactory.substack.com/p/tdf-2026-an-honest-note-on-regeneration)
+- Score unchanged (4.5/10, our-fit 4/8).
 
 ## Feelings
 - Ondrej:

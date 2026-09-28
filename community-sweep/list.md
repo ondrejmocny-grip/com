@@ -36,11 +36,11 @@ Legend: 🏫 home schooling (✅ legal · ⚠️ hard / grey · ❌ illegal) · 
 | 23 | [Mallorca inland (Binissalem)](places/es-mallorca-raiguer-binissalem.md) | ES | **54** | ⚠️ | 🟡 | – | Approved holistic school Sa Llavor | 🫧 rich/show-off side |
 | 23 | [Amiata + Tuscia](places/it-amiata-tuscia.md) | IT | **54** | ✅ | 🟡 | ✅ | Buddhist Merigar spread in villages, Steiner school | Spread out, lineage-centred |
 | 23 | [Pošumaví (Krumlov, Prachatice)](places/cz-posumavi-krumlov-prachatice.md) | CZ | **54** | ✅ | 🟡 | – | International community school NeŠkola | Spread out, weakest research |
-| 27 | [Datça](places/tr-datca.md) | TR | **52** | ❌ | 🔴 | ✅ | Strong civic life, Mor Kanguru kindergarten. We are here | Nothing for kids 6+, retirees |
-| 28 | [Idanha-a-Nova](places/pt-idanha-a-nova.md) | PT | **51** | ✅ | 🟡 | ✅ | Council invites newcomers, parent learning community | Spread out, school licence pending |
-| 29 | [Ourika worldschool](places/ma-ourika-worldschool.md) | MA | **49** | ⚠️ | 🟡 | ✅ | Licensed worldschool hub in an Amazigh village | Families stay only weeks |
-| 30 | [Alto Aragón villages](places/es-alto-aragon-guarguera-fueva.md) 🏘️ | ES | **46** | ⚠️ | 🔴 | – | Rebuilt villages, very young population | Semi-closed, few old locals |
-| 30 | [Aldeia das Amoreiras](places/pt-amoreiras-odemira-interior.md) | PT | **46** | ✅ | 🟢 | – | "Village of 50 nationalities", school full again | Few fresh sources, Tamera nearby |
+| 27 | [Aldeia das Amoreiras](places/pt-amoreiras-odemira-interior.md) | PT | **53** | ✅ | 🟢 | – | 50+ nationalities in ~1,000 people (RTP 2026), new festival + theatre, good local mix | ⚠️ Social life centres on Mooji ashram (guru risk). Few families, no alt school |
+| 28 | [Datça](places/tr-datca.md) | TR | **52** | ❌ | 🔴 | ✅ | Strong civic life, Mor Kanguru kindergarten. We are here | Nothing for kids 6+, retirees |
+| 29 | [Idanha-a-Nova](places/pt-idanha-a-nova.md) | PT | **51** | ✅ | 🟡 | ✅ | Council invites newcomers, parent learning community | Spread out, school licence pending |
+| 30 | [Ourika worldschool](places/ma-ourika-worldschool.md) | MA | **49** | ⚠️ | 🟡 | ✅ | Licensed worldschool hub in an Amazigh village | Families stay only weeks |
+| 31 | [Alto Aragón villages](places/es-alto-aragon-guarguera-fueva.md) 🏘️ | ES | **46** | ⚠️ | 🔴 | – | Rebuilt villages, very young population | Semi-closed, few old locals |
 | 32 | [Ecovillage Georgia (Ninigori)](places/ge-ninigori-lagodekhi.md) 🏘️ | GE | **43** | ⚠️ | 🟡 | – | Open, no guru, mixed members | Small, young, few families |
 
 ## Dropped (deal-breaker)

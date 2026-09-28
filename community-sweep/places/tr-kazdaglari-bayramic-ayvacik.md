@@ -20,7 +20,7 @@ The oldest and biggest "leave the city" scene in Turkey. Mostly **Turkish** newc
 |---|---|---|---|
 | Bayramiç Yeniköy Kazdağları Ekolojik Yaşam ve Tohum Derneği | Permaculture, local seeds, sharing | *Yes, as association (guess)* | [EkoHarita](https://www.ekoharita.org/project/bayramic-yenikoy-kazdaglari-ekolojik-yasam-ve-tohum-dernegi/) |
 | Zeytinli Ecological Life Community | Eco group in Bayramiç area | *Unknown* | [BirGün (search summary)](https://birgun.net/haber-detay/bayramic-te-bir-ekolojik-koy-112190.html) |
-| Bayramiç Seed Swap Festival (Tohum Takas Şenliği) | Yearly, since ~2013; seeds, local food, music, workshops. 9th edition 19–20 Aug 2023 | Open to all | [Çevreci Belediyeler](https://cevrecibelediyeler.org.tr/bayramic-belediyesinin-duzenledigi-9-tohum-takas-senligine-katildik/), [bianet](https://bianet.org/haber/bayramic-te-tohum-takas-senligi-131880) |
+| Bayramiç Seed Swap Festival (Tohum Takas Şenliği) | Seeds, local food, music, workshops. 9th edition 19–20 Aug 2023 (*started ~2013, guess*) | Open to all | [Çevreci Belediyeler](https://cevrecibelediyeler.org.tr/bayramic-belediyesinin-duzenledigi-9-tohum-takas-senligine-katildik/), [bianet](https://bianet.org/haber/bayramic-te-tohum-takas-senligi-131880) |
 | Natural farming + yurt project, Karaköy/Bayramiç | Workaway host | Yes | [Workaway](https://www.workaway.info/en/host/424597721658) |
 | TaTuTa / WWOOF farms | Many farms on both sides of the mountain | Yes (food + bed for work) | [wwoof.tr](https://wwoof.tr/tr/) |
 | Adatepe Taş Mektep | Old village school, now seminars and workshops | Events | [Çok Okuyan Çok Gezen](https://cokokuyancokgezen.com/adatepe-koyu/) |

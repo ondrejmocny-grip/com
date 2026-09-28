@@ -10,7 +10,7 @@ The best **schooling mix** we found in Turkey: Waldorf-inspired kindergarten and
 
 ## People (C1)
 - Many people from İstanbul, Ankara, İzmir move to Urla and Seferihisar; **retirees** are a big group too (2025 surveys). [Yeni Ankara](https://www.yeniankara.com.tr/turkiye-haberleri/turkiyede-insanlarin-buyuk-sehirlerden-tasindigi-ilceler-181839)
-- Akyaka-style creative / eco people; "another farming is possible" movement in Seferihisar. [Son Dakika](https://www.sondakika.com/guncel/haber-seferihisar-da-baska-bir-tarim-mumkun-8520962/)
+- "Another farming is possible" movement in Seferihisar. [Son Dakika](https://www.sondakika.com/guncel/haber-seferihisar-da-baska-bir-tarim-mumkun-8520962/)
 - *More eco-cultural and intellectual than spiritual. Yoga and healing exist but smaller than Kaz Dağları (guess).*
 
 ## Projects to join (C2)

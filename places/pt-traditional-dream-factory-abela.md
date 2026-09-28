@@ -1,6 +1,6 @@
 # Traditional Dream Factory (TDF) — Abela, Santiago do Cacém (Alentejo)
 
-- **Status:** researching (deep dive done 2026-09-28). Good place to **visit, volunteer and learn**. Weak as a place to **root** (few families, hot, dry, one campus).
+- **Status:** ⭐ interesting (Ondrej: interesting mix for us, tech + farming) · researching (deep dive done 2026-09-28). Good place to **visit, volunteer and learn**. Weak as a place to **root** (few families, hot, dry, one campus).
 - **Country / region:** Portugal, Alentejo Litoral (Setúbal district), municipality Santiago do Cacém, parish Abela.
 - **Nearest town / airport:** Santiago do Cacém (~15 km). Train: Ermidas-Sado (~15 min). Airports: Lisbon ~1.5 h, Faro ~2 h.
 - **Website / contacts:** https://www.traditionaldreamfactory.com · team: space@traditionaldreamfactory.com · press: press@traditionaldreamfactory.com · Telegram https://t.me/traditionaldreamfactory · Substack https://traditionaldreamfactory.substack.com · Address: Cerca do Aviário / Largo do Chafariz 12, 7540-011 Abela.

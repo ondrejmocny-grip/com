@@ -71,6 +71,29 @@ Sources: [festivalesdeespana](https://www.festivalesdeespana.com/festival/carnav
 - Contribute: Nesli = cooking, yoga, gardening, animals (big fit with retreat hosts). Ondrej = community building, tech, education (schools need help).
 - Later: buy a cortijo with **acequia water rights** (listings often say "8 hours of acequia irrigation"). [idealista Órgiva land](https://www.idealista.com/en/venta-terrenos/orgiva-granada/)
 
+## Renting outside the town centre (added 2026-09-28)
+
+**Areas to look (Claude's suggestion)**
+| Area | Drive to Órgiva | Why | Watch out |
+|---|---|---|---|
+| Carataunas, Soportújar, Cáñar (upper slope, ~700–1,000 m) | 10–15 min | Cooler than town (*guess: higher = cooler*). Near O Sel Ling and many retreats | Beneficio camp is in the valley below Cáñar |
+| Bayacas and the Río Chico valley | 5–10 min | Small village, the energy community meets here | Very small |
+| Countryside cortijos 3–6 km around town | 5–10 min | Most offers are here (e.g. a cortijo 5 km out) | Hot in summer; check water |
+| Lanjarón | ~15 min (*guess*) | Real town with services, rentals exist | More Spanish, fewer newcomers (*guess*) |
+| La Taha (Pitres, Ferreirola) | 30–40 min | Cooler, more old locals | Far from the Órgiva schools. See [La Taha](es-la-taha-alpujarra.md) |
+
+**Prices (seen 2026-09-28)**
+| Source | What it says |
+|---|---|
+| [Fotocasa index](https://www.fotocasa.es/es/indice-precio-vivienda/alquiler/orgiva/todas-las-zonas) | ~11 €/m² per month (Sep 2026), +2.3% in one year |
+| [RealAdvisor](https://realadvisor.es/es/precios-viviendas/municipio-orgiva) | Model: ~8 €/m² per month. Flat 2 bed ~€570, 3 bed ~€700. Houses median €1,700 (*looks too high, big villas pull it up*) |
+| [Alpujarra Life](https://alpujarralife.com/property-status/for-rent/) (agency; listings have no date) | Cortijo 3 bed, 5 km from centre: **€750 + bills**. Cortijo 2 bed: €900. Lanjarón houses 2–3 bed: €700–750. Flat 1 bed in town: €520 |
+| [idealista](https://www.idealista.com/en/alquiler-viviendas/orgiva-granada/) | Blocked for our tool (403). Check by hand |
+
+**Our guess of the budget:** a 2–3 bedroom cortijo outside town = **€650–950 / month + bills**. Word of mouth (Facebook "Órgiva Massive", notice boards) may be cheaper (*guess*). Winter rent may be cheaper than summer (*guess*).
+
+**Ask every landlord:** own spring or acequia water? Water in August? Heating in winter (wood stove)? Can we park the van? Contract with padrón (town registration) possible? (Nesli needs this for residency.)
+
 ## Legal flags
 - Home schooling: ⚠️ grey zone in Spain. **But** Órgiva has **Árbol Madre**, an **officially authorised private school** (Junta de Andalucía code 18015791), Waldorf-based, ages **3–11**, enrolment 2026–27 open. [arbolmadre.org, 2026-09-27](https://arbolmadre.org/). Also public schools and a Montessori association. Earlier, families left because no legal alternative primary existed. [Goteo](https://en.goteo.org/project/arbol-madre-holistic-international-project). *Secondary (12+) = public IES only, guess.*
 - Van / yurt on land: ⚠️ Spanish rules: no living on rustic land without license (see [legal overview](../regions/legal-overview.md)). *In practice many people live in vans/yurts here. Tolerated, not legal. Guess.*

@@ -64,7 +64,7 @@ The quiet, green, wild end of São Miguel. Deep valleys, waterfalls, hydrangeas,
 | 10 | Language & residency | 1 | 3 | EU route; Portuguese needed |
 | 11 | Local traditions | 1 | 5 | Very alive |
 | 12 | Climate | 2 | 1 | Damp, fails rule |
-| | **Total (max 125)** | | **76** | |
+| | **Total (max 125)** | | **78** | |
 
 Main doubts: **damp climate**, **no scene or school nearby**, **Fruit Garden may be old or closed**.
 

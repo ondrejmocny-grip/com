@@ -30,6 +30,7 @@
 | [Couserans](../places/fr-couserans-saint-girons.md) | none | 8–11 days every month | Yes | ❌ Fail | [Saint-Girons](https://en.wikipedia.org/wiki/Saint-Girons,_Ariège#Climate) |
 | [West Cork](../places/ie-west-cork.md) | none | 10–12 days every summer month | Few | ❌ Fail | [Cork](https://en.wikipedia.org/wiki/Cork_(city)#Climate) |
 | [East Clare](../places/ie-east-clare.md) | none | 11–14 days every month | Few | ❌ Fail | [Shannon](https://en.wikipedia.org/wiki/Limerick#Climate) |
+| [Azores (São Miguel, Terceira, Pico, Faial)](azores.md) | Jun–Aug only | ~5–7 rain days, <50 mm/month in Jun–Aug; humidity 78–83% all year | No (only Pico summit) | ❌ Fail (Santa Maria 🟡 borderline, ~4 dry months). Mild 12–26 °C all year | see [azores.md](azores.md) |
 
 ## Key insight: two of our rules pull against each other
 

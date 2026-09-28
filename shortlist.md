@@ -78,6 +78,9 @@
 | [Essaouira hinterland](places/ma-essaouira-hinterland.md) | MA | 6/8 | 77 | 💧 Salty, sinking groundwater |
 | [Alta Gallura, Sardinia](places/it-gallura-tempio.md) | IT | 3/8 | 73 | 💧 One dam, 🔥 |
 | [Var hinterland](places/fr-provence-verte-correns.md) | FR | 3/8 | 71 | 💧 Summer limits, 🔥, 💶 |
+| [Azores: Capelas / NW São Miguel (Novas Rotas school)](places/pt-azores-capelas-sao-miguel.md) | PT | 5/8 | 84 | ❌ climate (only Jun–Aug dry, humid, mould), São Miguel rents ~€1,200 |
+| [Azores: Povoação / Nordeste, east São Miguel](places/pt-azores-povoacao-nordeste.md) | PT | 4/8 | 78 | ❌ climate, no school or scene nearby |
+| [Azores: South Pico + Horta (Faial)](places/pt-azores-pico-faial.md) | PT | 4/8 | 71 | ❌ climate, no school, no hospital on Pico |
 | [Kaş + hinterland (Çukurbağ, Kasaba, Gömbe)](places/tr-kas.md) | TR | 7/8 | 76 | 🔥 2026 fires, old water pipes, coastal villa bubble, no alt school, hot summers |
 | [Kayaköy](places/tr-kayakoy.md) | TR | 6/8 | 71 | Few families, protected site, hot summers |
 | [Chefchaouen / Rif](places/ma-chefchaouen-rif.md) | MA | 4/8 | 70 | No newcomer scene, 🔥 |

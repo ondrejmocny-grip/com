@@ -28,6 +28,7 @@ Full details: [`us/profile.md`](us/profile.md).
 | [`decisions/log.md`](decisions/log.md) | Decisions we made and why. |
 | [`shortlist.md`](shortlist.md) | The current best candidates, ranked. |
 | [`community-sweep/`](community-sweep/) | A **separate** sweep where only the community counts (no water, climate, distance). Own list, own files. |
+| [`ecovilla-sweep/`](ecovilla-sweep/) | A **separate** sweep for projects like La Ecovilla (Costa Rica): planned eco-neighbourhoods with plots, shared land, own school. |
 | [`sources.md`](sources.md) | Useful websites, networks, people, books. |
 
 Each folder has a `_template.md`. Copy it to start a new file.
